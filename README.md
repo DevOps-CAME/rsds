@@ -1,4 +1,4 @@
-# USINA - Data as a service
+# CAME | Responsabilidad Social y Desarrollo Sustentable | Balances de gestión social y ambiental 2020
 
 - [1. Acerca del proyecto](#1-acerca-del-proyecto)
 - [2. Equipo](#2-equipo)
