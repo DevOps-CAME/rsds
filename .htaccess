@@ -1,0 +1,2 @@
+RewriteEngine on
+ErrorDocument 404 http://newdanger.com.ar/memoria2020/404.php
