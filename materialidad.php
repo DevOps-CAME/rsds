@@ -280,8 +280,8 @@ Eje Liderazgo y Gestión del Negocio: recambio generación; identificación y ge
             pointHoverRadius: 20,
             data: [{
                 titulo: "Derechos Humanos y estándares laborales",
-                x: 3.2857,
-                y: 3.1828,
+                x: 3.285714286,
+                y: 3.18287037,
             }, {
                 titulo: "Equidad de género",
                 x:4 ,
@@ -313,8 +313,8 @@ Eje Liderazgo y Gestión del Negocio: recambio generación; identificación y ge
             }]
         }, {
             label: "Económica",
-            borderColor: window.chartColors.blue,
-            backgroundColor: color(window.chartColors.blue).alpha(0.2).rgbString(),
+            borderColor: window.chartColors.brown,
+            backgroundColor: color(window.chartColors.brown).alpha(0.2).rgbString(),
             pointRadius: 15,
             pointHoverRadius: 20,
             data: [

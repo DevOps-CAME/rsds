@@ -124,8 +124,8 @@
                                             <th>Objetivo</th>
                                             <th>Meta </th>
                                             <th>Indicador </th>
+                                            <th>Indicador 2018</th>
                                             <th>Indicador 2019</th>
-                                            <th>Indicador 2020</th>
                                             <th>Indicador 2020 </th>
                                         </tr>
                                     </thead>
