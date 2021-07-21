@@ -313,8 +313,8 @@ Eje Liderazgo y Gestión del Negocio: recambio generación; identificación y ge
             }]
         }, {
             label: "Económica",
-            borderColor: window.chartColors.brown,
-            backgroundColor: color(window.chartColors.brown).alpha(0.2).rgbString(),
+            borderColor: window.chartColors.purple,
+            backgroundColor: color(window.chartColors.purple).alpha(0.2).rgbString(),
             pointRadius: 15,
             pointHoverRadius: 20,
             data: [

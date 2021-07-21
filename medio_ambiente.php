@@ -71,7 +71,7 @@
 
                             </div>
                         </section>
-                        <section id="certificacion-iso">
+                        <section id="industria">
                             <div class="col-12 mt-4">
                                 <h2>Industria</h2>
                                 <h3>Comisiones</h3>
@@ -117,6 +117,7 @@
                                     género e impulsen Parques Industriales tecnológicos o del conocimiento.</p>
                             </div>
                         </section>
+
                         <section id="comercio">
                             <div class="col-12 mt-4">
                                 <h2>Comercio</h2>
@@ -149,38 +150,7 @@
                                 <p>###(Fotos CCA)</p>
                             </div>
                         </section>
-                        <section id="comercio">
-                            <div class="col-12 mt-4">
-                                <h2>Comercio</h2>
-                                <h3>Centros Comerciales Abiertos</h3>
 
-                                <p>A través de nuestro programa de Centros Comerciales Abiertos (CCA) fomentamos, entre
-                                    otras cosas, la <strong>presencia de espacios verdes en las ciudades,</strong> lo
-                                    que contribuye a la <strong>disminución de la polución en general y promueve las
-                                        prácticas de intercambio social en un entorno de comercio sustentable. </strong>
-                                </p>
-
-                                <p>Cada iniciativa se diseña bajo conceptos de sustentabilidad y mejoras ambientales
-                                    como la <strong>prioridad peatón,</strong> la <strong>disminución de los
-                                        estacionamientos en las áreas más densas, iluminación de bajo consumo, eco
-                                        estaciones en el espacio público,</strong> la <strong>aplicación de cestos de
-                                        residuos reciclables y la <strong>promoción del uso de las bicicletas. </strong>
-                                </p>
-
-                                <p>Durante 2020, a causa de la pandemia causada por el Covid-19, y del aislamiento
-                                    social preventivo y obligatorio, se restringió la circulación física de
-                                    profesionales para avanzar con los proyectos; no obstante, a través de la
-                                    comunicación virtual continuamos brindando asistencia a los proyectos en curso.
-                                </p>
-                                <div>
-                                    <p>
-                                        Durante 2020 se brindó asistencia técnica en 69 ciudades (20% más que en 2019)
-                                        para desarrollar y gestionar sus CCA.
-                                    </p>
-                                </div>
-                                <p>###(Fotos CCA)</p>
-                            </div>
-                        </section>
                         <section id="economias-regionales">
                             <div class="col-12 mt-4">
                                 <h2>Economías Regionales
@@ -291,6 +261,22 @@
                             </div>
                         </section>
 
+                        <section id="jovenes">
+                            <div class="col-12 mt-4">
+                                <h2>Jóvenes</h2>
+                                <p>
+                                    A través de FECOBA Joven (Federación de Comercio e Industria de la Ciudad Autónoma
+                                    de Buenos Aires) se formalizó una alianza con la <strong>Asociación Civil Basura
+                                        Cero,</strong> entidad que se dedica a la concientización sobre economía
+                                    circular y su práctica.
+                                    En este marco, ya realizó la primera entrega de Residuos de Aparatos Eléctricos y
+                                    Electrónicos (RAAEEs) a la asociación.
+                                    (###Foto RAEE)
+
+                                </p>
+                            </div>
+                        </section>
+
                         <section id="rsds">
                             <div class="col-12 mt-4">
                                 <h2>Responsabilidad Social y Desarrollo Sustentable
@@ -331,9 +317,11 @@
                                     capacidades individuales de los profesionales participantes, fomentando así un
                                     importante cambio cultural positivo dentro de sus compañías, siendo ahora promotores
                                     del uso responsable de los recursos energéticos”
-                                    <em>Alfredo Caprile, José Luis Larrégola, Marina Assandri e Ignacio Ibañez - Proyecto
-                                    Eficiencia Energética en Argentina</em>
-                                    (Foto de equipo)</p>
+                                    <em>Alfredo Caprile, José Luis Larrégola, Marina Assandri e Ignacio Ibañez -
+                                        Proyecto
+                                        Eficiencia Energética en Argentina</em>
+                                    (Foto de equipo)
+                                </p>
 
                                 <p>“Como Empresa nos sentimos muy afortunados de formar parte del equipo de la Red de
                                     aprendizaje de Eficiencia Energética; agradecemos a la CEM la convocatoria, y su
@@ -349,7 +337,8 @@
                                     que, sin lugar a dudas, nos conducen por las sendas del compromiso con el cuidado
                                     del medio ambiente, además de ahorros en costos productivos.”
                                     <em>Ing. Roque J. Rehwald, gerente de Producción de la empresa Bolsaplast SRL</em>
-                                    (Foto Roque)</p>
+                                    (Foto Roque)
+                                </p>
 
 
                             </div>
@@ -359,38 +348,52 @@
                             <div class="col-12 mt-4">
                                 <h2>Premios Latinoamérica Verde
                                 </h2>
-                                <p>Por cuarto año consecutivo, nos unimos a los Premios Latinoamérica Verde (PLV) - certamen que exhibe, conecta y premia a los 500 mejores proyectos sociales y ambientales de la región - para difundir e impulsar entre las entidades, pymes y emprendedores argentinos esta iniciativa. 
+                                <p>Por cuarto año consecutivo, nos unimos a los Premios Latinoamérica Verde (PLV) -
+                                    certamen que exhibe, conecta y premia a los 500 mejores proyectos sociales y
+                                    ambientales de la región - para difundir e impulsar entre las entidades, pymes y
+                                    emprendedores argentinos esta iniciativa.
                                 </p>
-                                <div><p>
-                                    En 2020 Argentina se alzó con 2 estatuillas en las categorías: 
-                                   <ul> <li>Manejo de Residuos </li>
-                                    <li>Ciudades Sostenibles</li></ul>
+                                <div>
+                                    <p>
+                                        En 2020 Argentina se alzó con 2 estatuillas en las categorías:
+                                    <ul>
+                                        <li>Manejo de Residuos </li>
+                                        <li>Ciudades Sostenibles</li>
+                                    </ul>
                                     Ocupando nuevamente una posición de liderazgo en el Top 3 de países de la región
-                                    
-###(Foto PLV)
-                                </p></div>
-                            </div></section>
 
-                            <section id="programa-oficina">
-                                <div class="col-12 mt-4">
-                                    <h2>Programa Oficina Verde</h2>
-                                   <p> En este año tan particular, en el que el trabajo se llevó casi por completo a la virtualidad, continuamos con nuestro programa interno “Oficina Verde”, el cual tiene por objetivo promover hábitos sustentables puertas adentro de la entidad, para seguir reforzando los conceptos de separación de residuos, pero ahora en el hogar.</p>
-
-<p>Por otra parte, logramos recuperar más de 1.700 kilos de materiales reciclables de nuestras oficinas, junto a los proveedores Ando Reciclaje y GEA Sustentable, ambas pymes con certificación de Triple Impacto.</p>
-
-<p>Con esta acción:
-Prevenimos la tala de 23 árboles
-Evitamos el desperdicio de 41.580 litros de agua
-Ahorramos el consumo de 6323 kWh
-Economizamos el uso de 35 kg de petróleo </p>
-
+                                    ###(Foto PLV)
+                                    </p>
                                 </div>
-                            </section>
+                            </div>
+                        </section>
 
-                 
+                        <section id="programa-oficina">
+                            <div class="col-12 mt-4">
+                                <h2>Programa Oficina Verde</h2>
+                                <p> En este año tan particular, en el que el trabajo se llevó casi por completo a la
+                                    virtualidad, continuamos con nuestro programa interno “Oficina Verde”, el cual tiene
+                                    por objetivo promover hábitos sustentables puertas adentro de la entidad, para
+                                    seguir reforzando los conceptos de separación de residuos, pero ahora en el hogar.
+                                </p>
+
+                                <p>Por otra parte, logramos recuperar más de 1.700 kilos de materiales reciclables de
+                                    nuestras oficinas, junto a los proveedores Ando Reciclaje y GEA Sustentable, ambas
+                                    pymes con certificación de Triple Impacto.</p>
+
+                                <p>Con esta acción:</br>
+                                    Prevenimos la tala de 23 árboles</br>
+                                    Evitamos el desperdicio de 41.580 litros de agua</br>
+                                    Ahorramos el consumo de 6323 kWh</br>
+                                    Economizamos el uso de 35 kg de petróleo </p>
+
+                            </div>
+                        </section>
 
 
-                     
+
+
+
 
                         <section id="ODS">
                             <div class="col-12 mt-4">
@@ -410,35 +413,55 @@ Economizamos el uso de 35 kg de petróleo </p>
                                         </tr>
                                     </thead>
                                     <tbody>
-<tr>
-<td>2</td>
-<td>2.3 De aquí a 2030, duplicar la productividad agrícola y los ingresos de los productores de alimentos en pequeña escala, en particular las mujeres, los pueblos indígenas, los agricultores familiares, los ganaderos y los pescadores, entre otras cosas mediante un acceso seguro y equitativo a las tierras, a otros recursos e insumos de producción y a los conocimientos, los servicios financieros, los mercados y las oportunidades para añadir valor y obtener empleos no agrícolas.</td>
-<td>2.3.1 Acciones permanentes para promover el contacto directo entre pequeños y medianos productores y consumidores, eliminando los intermediarios:</td>
-<td>Mercado en tu barrio</td>
-<td>Mercado en tu barrio</td>
-Campaña “Más frutas y verduras”
-<td>Mercado en tu barrio</td>
-Sello Came Sustentable (desarrollo de protocolos)
-<td>Sello Came Sustentable (2 empresas certificadas)</td>
-</tr>
-<tr>
-<tr><td>12</td>
-<td>12.5 De aquí a 2030, reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclado y reutilización.</td>
-<td>12.5.1 Cantidad de toneladas de material recuperado:</td>
-<td>100 kg/mes promedio</td>
-<td>107,9 kg/mes promedio</td>
-<td>158 kg/mes promedio</td>
-<td>141,7 kg/mes promedio</td></tr>
-<tr><td>12</td>
-<td>12.b Elaborar y aplicar instrumentos para vigilar los efectos en el desarrollo sostenible, a fin de lograr un turismo sostenible que cree puestos de trabajo y promueva la cultura y los productos locales.</td>
-<td>12.b.1 Número de estrategias o políticas de turismo sostenible y de planes de acción implantados</td>
-<td>Participación en 1 acción para la promoción del turismo sustentable en Misiones</td>
-<td>Participación en 1 acción para la promoción del turismo sustentable en Misiones</td>
-<td>Turismo, Mujeres</td>
-<td>Plataforma CAME Turismo, que promueve empresas certificadas en triple impacto
-    Turismo
-Mujeres 
-</td></tr>
+                                        <tr>
+                                            <td>2</td>
+                                            <td>2.3 De aquí a 2030, duplicar la productividad agrícola y los ingresos de
+                                                los productores de alimentos en pequeña escala, en particular las
+                                                mujeres, los pueblos indígenas, los agricultores familiares, los
+                                                ganaderos y los pescadores, entre otras cosas mediante un acceso seguro
+                                                y equitativo a las tierras, a otros recursos e insumos de producción y a
+                                                los conocimientos, los servicios financieros, los mercados y las
+                                                oportunidades para añadir valor y obtener empleos no agrícolas.</td>
+                                            <td>2.3.1 Acciones permanentes para promover el contacto directo entre
+                                                pequeños y medianos productores y consumidores, eliminando los
+                                                intermediarios:</td>
+                                            <td>Mercado en tu barrio</td>
+                                            <td>Mercado en tu barrio</td>
+                                            Campaña “Más frutas y verduras”
+                                            <td>Mercado en tu barrio</td>
+                                            Sello Came Sustentable (desarrollo de protocolos)
+                                            <td>Sello Came Sustentable (2 empresas certificadas)</td>
+                                        </tr>
+                                        <tr>
+                                        <tr>
+                                            <td>12</td>
+                                            <td>12.5 De aquí a 2030, reducir considerablemente la generación de desechos
+                                                mediante actividades de prevención, reducción, reciclado y
+                                                reutilización.</td>
+                                            <td>12.5.1 Cantidad de toneladas de material recuperado:</td>
+                                            <td>100 kg/mes promedio</td>
+                                            <td>107,9 kg/mes promedio</td>
+                                            <td>158 kg/mes promedio</td>
+                                            <td>141,7 kg/mes promedio</td>
+                                        </tr>
+                                        <tr>
+                                            <td>12</td>
+                                            <td>12.b Elaborar y aplicar instrumentos para vigilar los efectos en el
+                                                desarrollo sostenible, a fin de lograr un turismo sostenible que cree
+                                                puestos de trabajo y promueva la cultura y los productos locales.</td>
+                                            <td>12.b.1 Número de estrategias o políticas de turismo sostenible y de
+                                                planes de acción implantados</td>
+                                            <td>Participación en 1 acción para la promoción del turismo sustentable en
+                                                Misiones</td>
+                                            <td>Participación en 1 acción para la promoción del turismo sustentable en
+                                                Misiones</td>
+                                            <td>Turismo, Mujeres</td>
+                                            <td>Plataforma CAME Turismo, que promueve empresas certificadas en triple
+                                                impacto
+                                                Turismo
+                                                Mujeres
+                                            </td>
+                                        </tr>
 
 
 

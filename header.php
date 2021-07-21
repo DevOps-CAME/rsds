@@ -144,39 +144,39 @@
 									</a>
 									<ul class="sub-menu-container">
 										<li class="menu-item">
-											<a class="menu-link" href="medio_ambiente.php#">
+											<a class="menu-link" href="medio_ambiente.php#industria">
 												<div>Industria</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="medio_ambiente.php#">
+											<a class="menu-link" href="medio_ambiente.php#comercio">
 												<div>Comercio</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="medio_ambiente.php#">
+											<a class="menu-link" href="medio_ambiente.php#economias-regionales">
 												<div>Economías Regionales</div>
 											</a>
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="medio_ambiente.php#">
+											<a class="menu-link" href="medio_ambiente.php#turismo">
 												<div>Turismo</div>
 											</a>
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="medio_ambiente.php#">
+											<a class="menu-link" href="medio_ambiente.php#jovenes">
 												<div>Jóvenes</div>
 											</a>
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="medio_ambiente.php#">
+											<a class="menu-link" href="medio_ambiente.php#rsds">
 												<div>Responsabilidad Social y Desarrollo Sustentable</div>
 											</a>
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="medio_ambiente.php#">
+											<a class="menu-link" href="medio_ambiente.php#ODS">
 												<div> ¿Cómo nos alineamos a los ODS?</div>
 											</a>
 										</li>
@@ -186,66 +186,66 @@
 							</ul>
 							<ul class="sub-menu-container mega-menu-column col-lg-3">
 								<li class="menu-item mega-menu-title">
-									<a class="menu-link" href="#">
+									<a class="menu-link" href="desarrollo_comunidad.php">
 										<div>Desarrollo de la Comunidad</div>
 									</a>
 									<ul class="sub-menu-container">
 										<li class="menu-item">
-											<a class="menu-link" href="login-register.php">
+											<a class="menu-link" href="desarrollo_comunidad.php#capacitacion">
 												<div>Capacitación</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="coming-soon.php">
+											<a class="menu-link" href="desarrollo_comunidad.php#mujeres-empresarias">
 												<div>Mujeres Empresarias</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="404.php">
+											<a class="menu-link" href="desarrollo_comunidad.php#comercio">
 												<div>Comercio </div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#">
+											<a class="menu-link" href="desarrollo_comunidad.php#administracion-presupuestos">
 												<div>Administración de Presupuestos</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#">
+											<a class="menu-link" href="desarrollo_comunidad.php#jovenes">
 												<div>Jóvenes</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#">
+											<a class="menu-link" href="desarrollo_comunidad.php#financiamiento">
 												<div>Financiamiento y Competitividad Pyme</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#">
+											<a class="menu-link" href="desarrollo_comunidad.php#rsds">
 												<div>Responsabilidad Social y Desarrollo Sustentable</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#">
+											<a class="menu-link" href="desarrollo_comunidad.php#mesa-agrolimentaria">
 												<div>Mesa Agroalimentaria</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#">
+											<a class="menu-link" href="desarrollo_comunidad.php#came-sustentable">
 												<div>Sello CAME Sustentable</div>
 											</a>
 
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#">
+											<a class="menu-link" href="desarrollo_comunidad.php#ODS">
 												<div>¿Cómo nos alineamos a los ODS?</div>
 											</a>
 
