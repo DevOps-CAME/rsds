@@ -42,10 +42,10 @@
                             con gran orgullo presido— se comprometió a impulsar en el entramado pyme un modelo de
                             negocios,
                             poco conocido en nuestro país en aquel entonces, que motive el desarrollo económico con
-                            inclusión social y cuidado del medioambiente.
+                            inclusión social y cuidado del ambiente.
 
                         </div>
-                        <div class="col-12 mb-0" style="column-count: 2;">
+                        <div class="col-12 mb-0" >
                             <p>Una década después y frente a una pandemia que colapsó —en la mayoría de los países— los
                                 sistemas sanitarios primero y los económicos después, y obligó al mundo entero a
                                 acelerar un
@@ -83,7 +83,7 @@
 
 
                             <p>Desde el año 2015, en CAME —a través de nuestro Departamento de Responsabilidad Social y
-                                Desarrollo Sustentable— adoptamos el desafío de informar a nuestro público el compromiso
+                                Desarrollo Sustentable— adoptamos el desafío de informar a nuestros públicos el compromiso
                                 con
                                 el Triple Impacto (crecimiento económico con conciencia social y ambiental) mediante la
                                 publicación anual de este reporte.</p>
@@ -150,9 +150,9 @@
 
                                 </div>
                                 <div class="col-3 p-4 m-4" style="background-color: #ccc;">
-                                    <h4>Objetivos de Desarrollo Sostenible (ODS) de las Naciones Unidas</h4>
+                                    <h4>Objetivos de Desarrollo Sostenible (ODS) de Naciones Unidas</h4>
                                     <p>Nos comprometimos voluntariamente con dichos objetivos en marzo de 2017. Desde
-                                        entonces los integramos a nuestra estrategia de Responsabilidad Social</p>
+                                        entonces los integramos a nuestra estrategia de Responsabilidad Social.</p>
 
                                 </div>
                             </div>

@@ -198,7 +198,7 @@
                             <div class="col-3">Eje social: herramientas para comunicar y captar al nuevo consumidor; equidad de género y lucha contra el comercio ilegal. </div>
                             <div class="col-3">Eje económico: cadena de valor; competitividad y el emprendedurismo.</div>
                             <div class="col-3">
-Eje Liderazgo y Gestión del Negocio: recambio generación; identificación y gestión de riesgos y el cumplimiento legal.
+Eje Liderazgo y Gestión del Negocio: recambio generacional; identificación y gestión de riesgos y el cumplimiento legal.
 </div></div>
 
 

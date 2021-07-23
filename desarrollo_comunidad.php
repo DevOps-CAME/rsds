@@ -70,6 +70,7 @@
 
                             </div>
                         </section>
+                        
                         <section id="certificacion-iso">
                             <div class="col-12 mt-4">
                                 <h2>Capacitación</h2>
@@ -306,6 +307,7 @@
 
                             </div>
                         </section>
+
                         <section id="comercio">
                             <div class="col-12 mt-4">
                                 <h2>Comercio</h2>
@@ -491,6 +493,7 @@
 
                             </div>
                         </section>
+
                         <section id="acciones-solidarias">
                             <div class="col-12 mt-4">
                                 <h2>Acciones Solidarias</h2>

@@ -52,7 +52,7 @@
                                 <p>
                                     Para fortalecer las vías democráticas de acción, el Consejo Directivo de CAME se
                                     reunió
-                                    en <strong>11 oportunidades</strong> durante el año 2020: de forma presencial en
+                                    en <strong>11 oportunidades</strong> durante el año 2020. De forma presencial en
                                     enero y
                                     febrero, y virtualmente desde el inicio de la pandemia, respetando los términos
                                     previstos por las disposiciones de la Resolución General 11/2020 de la Inspección
@@ -73,9 +73,9 @@
                                     y Certificación (IRAM), el cual evaluó el grado de cumplimiento de los exigentes
                                     requisitos normativos de la Norma ISO 9001:2015 aplicable a la administración de
                                     partidas presupuestarias para capacitación y fortalecimiento institucional de las
-                                    entidades gremiales Pymes argentinas.</p>
+                                    entidades gremiales pymes argentinas.</p>
                                 <p>
-                                    En 2021 el sector de Administración de presupuestos recertificará su Sistema de
+                                    En 2021 el sector de Administración de Presupuestos recertificará su Sistema de
                                     Gestión
                                     de la Calidad bajo la Norma IRAM 9001:2015, siempre con el objetivo de enfocarse en
                                     los
@@ -92,7 +92,7 @@
                                 <h3>Código de Ética y Conducta</h3>
                                 <p>
                                     Desde hace ya tres años, comenzamos a trabajar en un <strong>Programa de
-                                        Integridad<strong> para dirigentes y colaboradores y así crear un <strong>Código
+                                        Integridad</strong> para dirigentes y colaboradores y así crear un <strong>Código
                                                 de
                                                 Ética y Conducta,</strong> aprobado en la Asamblea General Ordinaria de
                                             2019.</p>
@@ -107,7 +107,7 @@
                                     </li>
                                     <li>Analizar y diseñar políticas de personal que garanticen la igualdad de género y
                                         oportunidades.</li>
-                                    <li>Capacitaciones específicas sobre igualdad e inclusión para los diferentes
+                                    <li>Generar capacitaciones específicas sobre igualdad e inclusión para los diferentes
                                         actores y
                                         personal de la entidad.</li>
                                 </ul>
@@ -198,8 +198,10 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p>Conocé más sobre nuestro trabajo institucional en el último informe de gestión
-                                    publicado por nuestra entidad: (Link a informe de gestión 2020)
+                                <p class="mt-5 text-center">
+                                    <strong>
+                                <a target="_blank" href="http://www.redcame.org.ar/memoria2020">Conocé más sobre nuestro trabajo institucional en el último informe de gestión publicado por nuestra entidad</a></br>
+                                    <a href="http://www.redcame.org.ar/memoria2020" class="button button-border button-rounded button-aqua"><i class="icon-book3"></i>Clic aquí</a>
                                 </p>
                             </div>
                         </section>

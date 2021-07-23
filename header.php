@@ -258,7 +258,7 @@
 			</div>
 			</li>
 			<li class="menu-item">
-				<a class="menu-link" href="#">
+				<a class="menu-link" href="proximos_desafios.php">
 					<div>Próximos desafios</div>
 				</a>
 			</li>

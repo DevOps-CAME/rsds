@@ -72,17 +72,17 @@
                                 </p>
                                 <div class="col-12">
                                     <div class="row">
-                                        <div class="col-3">Encuesta de Relevamiento de Diagnóstico de Personal, la cual
+                                        <div class="col-3">Encuesta de Relevamiento de Diagnóstico de Personal: la cual
                                             nos
                                             permitió detectar y atender diferentes situaciones y necesidades.
                                         </div>
                                         <div class="col-3">Presentación de resultados de la encuesta de Clima 2019 y
                                             planes
                                             de acción. </div>
-                                        <div class="col-3">Implementación de Informes por Sector para identificar
+                                        <div class="col-3">Implementación de informes sectoriales para identificar
                                             objetivos,
                                             tareas y readecuaciones necesarias.</div>
-                                        <div class="col-3">Trivias de preguntas y respuestas: mediante la iniciativa del
+                                        <div class="col-3">Trivias de preguntas y respuestas: mediante una iniciativa del
                                             sector de Eventos y Multimedia se llevaron a cabo espacios de recreación
                                             virtual
                                             e interacción social.</div>
@@ -256,13 +256,13 @@
                             <div class="col-12 mt-4">
                                 <h3>Ambiente Laboral y Derechos Humanos</h3>
                                 <p>Con el objetivo de acompañar las nuevas necesidades de nuestro personal y continuar
-                                    desarrollando las tareas diarias con normalidad, <strong> el 2020 entregamos más de
-                                        38 notebooks a los colaboradores,</strong> así como también se brindaron
+                                    desarrollando las tareas diarias con normalidad, <strong> en 2020 entregamos más de
+                                        38 notebooks a los colaboradores,</strong> así como también brindamos
                                     capacitaciones para un manejo óptimo de la nueva herramienta para teletrabajo, Zoom.
                                 </p>
                                 <p>
-                                    Conocé más sobre nuestros beneficios al personal en nuestros anteriores Balances de
-                                    Gestión Social y Ambiental: ###(Link a balances)
+                                   <a target="_blank" href="http://www.redcame.org.ar/rse"> Conocé más sobre los beneficios al personal en nuestros anteriores Balances de
+                                    Gestión Social y Ambiental</a>      <a href="http://www.redcame.org.ar/rse" class="button button-border button-rounded button-aqua"><i class="icon-book3"></i>Clic aquí</a>
                                 </p>
 
                             </div>
