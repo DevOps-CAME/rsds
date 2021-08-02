@@ -33,7 +33,7 @@
         <section id="estandares-laborales">
             <div class="content-wrap">
                 <div class="container clearfix">
-                    <h2>Medio Aambiente</h2>
+                    <h2>Medio Ambiente</h2>
 
                     <div class="col-12 ml-1">
                         <div class="row">
@@ -61,7 +61,7 @@
                                     <strong>promoviendo estrategias de inclusión y equidad</strong> mientras son
                                     <strong>preservados los recursos naturales y el ambiente.</strong>
 
-                                    En CAME, entendemos la importancia de este triple impacto (económico, social y
+                                    En CAME, entendemos la importancia de este Triple Impacto (económico, social y
                                     ambiental), y por ello hemos acompañado, a través de los sectores que conforman
                                     nuestra institución, a las entidades y a sus pequeñas y medianas empresas para que
                                     consideren estrategias de sustentabilidad a la hora de planificar e implementar sus
@@ -97,7 +97,7 @@
                                         </div>
                                         <div class="col-4">Prestación de servicios técnicos profesionales, así como el
                                             desarrollo de investigaciones de interés para el fomento de la llamada
-                                            industria 4.0 y/o Industria “Verde”. </div>
+                                            industria 4.0 y/o “Industria Verde”. </div>
                                         <div class="col-4">Colaboración en los programas de cooperación con
                                             universidades nacionales o extranjeras, organismos gubernamentales o no
                                             gubernamentales, y en proyectos de financiamiento nacional o internacional.
@@ -130,22 +130,26 @@
                                 </p>
 
                                 <p>Cada iniciativa se diseña bajo conceptos de sustentabilidad y mejoras ambientales
-                                    como la <strong>prioridad peatón,</strong> la <strong>disminución de los
+                                    como la <strong>prioridad al peatón,</strong> la <strong>disminución de los
                                         estacionamientos en las áreas más densas, iluminación de bajo consumo, eco
                                         estaciones en el espacio público,</strong> la <strong>aplicación de cestos de
-                                        residuos reciclables y la <strong>promoción del uso de las bicicletas. </strong>
+                                        residuos reciclables</strong> y la <strong>promoción del uso de las bicicletas.
+                                    </strong>
                                 </p>
 
-                                <p>Durante 2020, a causa de la pandemia causada por el Covid-19, y del aislamiento
+                                <p>Durante 2020, a causa de la pandemia provocada por el Covid-19, y del aislamiento
                                     social preventivo y obligatorio, se restringió la circulación física de
                                     profesionales para avanzar con los proyectos; no obstante, a través de la
                                     comunicación virtual continuamos brindando asistencia a los proyectos en curso.
                                 </p>
-                                <div>
-                                    <p>
-                                        Durante 2020 se brindó asistencia técnica en 69 ciudades (20% más que en 2019)
-                                        para desarrollar y gestionar sus CCA.
-                                    </p>
+                                <div class="row justify-content-center">
+                                    <div class="resaltado col-8 m-4">
+                                        <p>
+                                            Durante 2020 brindamos asistencia técnica en 69 ciudades (20% más que en
+                                            2019)
+                                            para desarrollar y gestionar sus CCA.
+                                        </p>
+                                    </div>
                                 </div>
                                 <p>###(Fotos CCA)</p>
                             </div>
@@ -161,18 +165,14 @@
                                     la eliminación de intermediarios—, reduce brechas entre el productor y consumidor.
                                     Gracias a ello, <strong>los productos cuestan hasta un 40 % menos que en otros
                                         lugares.</strong> </p>
-                                <p>
-                                    Como consecuencia de la pandemia, las ferias cerraron el 21 de marzo de 2020, y
-                                    reabrieron al público el 9 de mayo del mismo año, tras crear un protocolo y
-                                    consensuarlo con la Municipalidad.
-                                </p>
+
                                 <p>###(Foto Feria)</p>
 
                                 <h3>Abastecimiento de Alimentos</h3>
                                 <p><strong>Permiso único de circulación</strong></p>
                                 <p>Al tener que satisfacer la demanda y asegurar el normal abastecimiento de alimentos,
                                     imprescindibles para la población, entidades del sector agroalimentario adheridas a
-                                    CAME habían manifestado que cada jurisdicción solicitaba a sus transportistas un
+                                    CAME manifestaron que cada jurisdicción solicitaba a sus transportistas un
                                     instrumento diferente para acreditar su condición de “exceptuados” del Aislamiento
                                     Social Preventivo y Obligatorio (ASPO).</p>
 
@@ -191,8 +191,7 @@
 
                                 <h3>INTA + CAME Joven
                                 </h3>
-                                <p><strong>Cadena Peras y Manzanas + Cítricos
-                                    </strong></p>
+
                                 <p>Organizamos un ciclo de webinarios sobre “Hidroponía y otros cultivos sin suelo”, que
                                     contó con cinco encuentros, a través de los cuales <strong>se capacitaron alrededor
                                         de 1.000 personas de las diferentes regiones argentinas,</strong> así como de
@@ -208,7 +207,7 @@
                                         públicos</strong> en los diferentes municipios.
 
                                 </p>
-                                <p>Además, otras entidades adheridas <strong>donaron productos alimenticios</strong> a
+                                <p>A su vez, otras entidades adheridas <strong>donaron productos alimenticios</strong> a
                                     los sectores más necesitados.
 
                                 </p>
@@ -231,13 +230,13 @@
                                 <h3>Índice de Precios en Origen y Destino</h3>
                                 <p>Seguimos elaborando y difundiendo mensualmente el <strong>Índice de Precios en Origen
                                         y Destino</strong> (IPOD), a fin de visibilizar la falta de transparencia en las
-                                    cadenas de valor y mostrar cuánto aumenta el valor de un producto del campo a la
+                                    cadenas de valor y mostrar cuánto aumenta el precio de un producto del campo a la
                                     góndola.</p>
 
                                 <p>Además, en diciembre de 2020 comenzamos a difundir los estudios sobre cadenas de
                                     valor para mostrar, a través de infografías, la participación de cada eslabón en el
-                                    precio final y el impacto de la presión impositiva: Quedó claro que <strong>el
-                                        productor primario no es formador de precios. </strong>
+                                    precio final y el impacto de la presión impositiva, donde queda en claro que el
+                                    productor primario no es formador de precios.</strong>
                                 </p>
                                 <p>###(Foto precio de la naranja)</p>
                             </div>
@@ -250,11 +249,10 @@
                                     En el marco del <strong>4° Foro Nacional de Turismo Rural y Naturaleza:</strong>
                                     "Turismo de proximidad y naturaleza como eje de reactivación de las Economías
                                     Regionales", que se realizó entre el 17 y el 19 de noviembre, se presentó la
-                                    <strong>Plataforma de CAME Turismo,</strong> con la oferta destinada al turismo
-                                    rural y de naturaleza en Argentina, negocios de triple impacto en turismo para un
-                                    desarrollo sostenible, justo e inclusivo —Sistema B—, la experiencia de empresas
-                                    certificadas en Argentina, y las acciones de la “Red Argentina de turismo Rural
-                                    INTA”.
+                                    <strong>plataforma de CAME Turismo,</strong> con la oferta destinada al turismo
+                                    rural y de naturaleza en Argentina, negocios de Triple Impacto en turismo para un
+                                    desarrollo sostenible, justo e inclusivo y las acciones de la “Red Argentina de
+                                    turismo Rural INTA”.
 
                                     ###Foto de la web: https://experienciarural.com.ar/
                                 </p>
@@ -282,19 +280,20 @@
                                 <h2>Responsabilidad Social y Desarrollo Sustentable
                                 </h2>
 
-                                <h3>Secretaría de Energía de la Nación – 5.a Red de Aprendizaje en Sistemas de Gestión
+                                <h3>Secretaría de Energía de la Nación – 5ª Red de Aprendizaje en Sistemas de Gestión
                                     de la Energía</h3>
                                 <p>
-                                    Seguimos trabajando en nuestra 5.a Red de Aprendizaje en Eficiencia Energética
+                                    Seguimos trabajando en nuestra 5ª Red de Aprendizaje en Eficiencia Energética
                                     —iniciativa enmarcada en el programa de cooperación internacional financiado por la
                                     Unión Europea “Eficiencia Energética en Argentina”— con el objetivo de continuar
                                     acompañando a las pequeñas y medianas empresas en sus procesos de reconversión hacia
                                     modelos de gestión más amigables con el ambiente.</p>
 
                                 <p>En colaboración con la Confederación Económica de Misiones (CEM), <strong>15 pymes
-                                        adheridas participaron</strong> ya fuera en encuentros presenciales como en
+                                        adheridas participaron</strong> tanto en encuentros presenciales como en
                                     virtuales, una vez decretado el confinamiento. Allí, en equipo junto a expertos
-                                    nacionales e internacionales, se compartieron capacidades para que puedan mejorar su
+                                    nacionales e internacionales, se compartieron experiencias para que puedan mejorar
+                                    su
                                     desempeño energético a través de procesos participativos diseñados exclusivamente
                                     para su sector.
 
@@ -308,7 +307,7 @@
                             <div class="col-12 mt-4">
                                 <h2>Testimonios</h2>
                                 <p>“El respaldo institucional de CAME a través de su Departamento de Responsabilidad
-                                    Social y Desarrollo Sustentable en conjunto con la Confederación Económica de
+                                    Social y Desarrollo Sustentable junto con la Confederación Económica de
                                     Misiones (CEM) hicieron posible el desarrollo de la Red en Gestión de la Energía.
                                     Los principios definidos por sus participantes fueron observados a lo largo de todo
                                     el proceso, abriéndose al aprendizaje compartido a través del respeto, el compromiso
@@ -324,7 +323,7 @@
                                 </p>
 
                                 <p>“Como Empresa nos sentimos muy afortunados de formar parte del equipo de la Red de
-                                    aprendizaje de Eficiencia Energética; agradecemos a la CEM la convocatoria, y su
+                                    aprendizaje de Eficiencia Energética. Agradecemos a la CEM la convocatoria, y su
                                     constante trabajo de acompañamiento.
                                     La organización de los cursos, la calidad en los temas desarrollados y los
                                     conocimientos específicos que nos han transmitido los capacitadores y coordinadores
@@ -371,10 +370,11 @@
                         <section id="programa-oficina">
                             <div class="col-12 mt-4">
                                 <h2>Programa Oficina Verde</h2>
-                                <p> En este año tan particular, en el que el trabajo se llevó casi por completo a la
-                                    virtualidad, continuamos con nuestro programa interno “Oficina Verde”, el cual tiene
-                                    por objetivo promover hábitos sustentables puertas adentro de la entidad, para
-                                    seguir reforzando los conceptos de separación de residuos, pero ahora en el hogar.
+                                <p> En este año tan particular, en el que el trabajo se trasladó casi por completo a la
+                                    virtualidad, continuamos con nuestro programa interno “Oficina Verde”. Este tiene
+                                    por objetivo promover hábitos sustentables puertas adentro de la entidad para seguir
+                                    reforzando los conceptos de separación de residuos, pero ahora en el hogar.”
+
                                 </p>
 
                                 <p>Por otra parte, logramos recuperar más de 1.700 kilos de materiales reciclables de

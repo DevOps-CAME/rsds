@@ -70,7 +70,7 @@
 
                             </div>
                         </section>
-                        
+
                         <section id="certificacion-iso">
                             <div class="col-12 mt-4">
                                 <h2>Capacitación</h2>
@@ -133,7 +133,7 @@
 
                             <div class="col-12 mt-4">
                                 <h3>Modalidad online</h3>
-                                <strong>Plataforma e-learning CAME Educativa (Cursos Gratuitos)</strong>
+                                <strong>Plataforma e-learning CAME Educativa</strong>
                                 <p>
                                     Durante 2020 brindamos <strong>85 cursos online</strong> de un mes de duración, los
                                     cuales incluyen tutorías virtuales y cuentan con la certificación de la Universidad
@@ -146,29 +146,33 @@
                                     Empleabilidad, Sustentabilidad y Género.
                                 </p>
 
-                                <div class="resaltado col-12 m-4">
-                                    <h3>Participaron 130.000 personas en los 85 cursos gratuitos brindados en CAME
-                                        Educativa durante 2020</h3>
-                                    <p>↑ La participación incrementó 80 %</br>
-                                        ↑ La tasa de egreso se mantuvo por encima de 30 %</p>
+                                <div class="row justify-content-center">
+                                    <div class="resaltado col-8 m-4">
+                                        <h3>Participaron 130.000 personas en los 85 cursos gratuitos brindados en CAME
+                                            Educativa durante 2020</h3>
+                                        <p>↑ La participación incrementó 80 %</br>
+                                            ↑ La tasa de egreso se mantuvo por encima de 30 %</p>
+                                    </div>
                                 </div>
 
-                                <h3>Plataforma Zoom CAME Educativa (Videoconferencias)
+                                <h3>Plataforma Zoom CAME Educativa
                                 </h3>
                                 <p>
                                     En 2020, diseñamos una nueva oferta de <strong>53 seminarios web</strong> para
                                     brindar a todas las entidades adheridas a CAME. Asimismo, procedimos al rediseño de
                                     cursos, talleres y conferencias presenciales para adaptarlas a la modalidad webinar,
-                                    atendiendo al contexto extraordinario de aislamiento social obligatorio preventivo
-                                    dispuesto desde el 20 de marzo.
+                                    atendiendo al contexto extraordinario de aislamiento social dispuesto desde el 20 de
+                                    marzo.
                                     </br></br>
                                     Nos hemos enfocado en desarrollar principalmente cursos sobre Comercio Electrónico,
-                                    Ventas Digitales, Teletrabajo, Oficina virtual, entre otros temas.
+                                    Ventas Digitales, Teletrabajo, y Oficina virtual, entre otros temas.
 
                                 </p>
-                                <div class="resaltado col-12 m-4">
-                                    <p>Más de 16.000 personas de todo el país participaron en las capacitaciones
-                                        virtuales brindadas por CAME durante 2020.</p>
+                                <div class="row justify-content-center">
+                                    <div class="resaltado col-8 m-4">
+                                        <p>Más de 16.000 personas de todo el país participaron en las capacitaciones
+                                            virtuales brindadas por CAME durante 2020.</p>
+                                    </div>
                                 </div>
 
                                 <p>
@@ -179,10 +183,29 @@
                                     a más de <strong>115.000 personas</strong> en las diferentes regiones argentinas.
                                 </p>
 
-                                <div class="resaltado col-12 m-4">
-                                    <p>En total, en este período capacitamos a más de 245.000 personas, brindando
-                                        acompañamiento en la formación de nuevas capacidades en medio de un contexto
-                                        desafiante y retador. </p>
+                                <div class="row justify-content-center">
+                                    <div class="resaltado col-8 m-4">
+                                        <p>En total, en este período capacitamos a más de 245.000 personas, brindando
+                                            acompañamiento en la formación de nuevas capacidades en medio de un contexto
+                                            desafiante y retador. </p>
+                                    </div>
+                                </div>
+                                <h3>Escuela de Negocios</h3>
+                                <p><strong>Diplomaturas:</strong> Implementamos cinco diplomaturas a distancia, con
+                                    certificación universitaria:
+                                </p>
+                                <div class="row justify-content-center">
+                                    <div class="resaltado col-8 m-4">
+                                        <p>
+                                        <ul>
+                                            <li>Recursos Humanos</li>
+                                            <li>Habilidades Gerenciales</li>
+                                            <li>Emprendedores</li>
+                                            <li>Franquicias</li>
+                                            <li>Herramientas Digitales para Pymes</li>
+                                        </ul>
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         </section>
@@ -198,7 +221,7 @@
                                 <ul>
                                     <li>El 81 % de las mujeres vio afectada su rutina de tareas </li>
                                     <li>El 70 % tuvo que restar horas a su empresa por las tareas de cuidado y
-                                        domésticas.</li>
+                                        domésticas</li>
                                     <li>El 1 % manifestó sentirse deprimida</li>
                                 </ul>
                                 </p>
@@ -210,29 +233,28 @@
 
                                 </p>
 
-                                <p>Durante 2020, a causa de la pandemia causada por el Covid-19, y del aislamiento
-                                    social preventivo y obligatorio, se restringió la circulación física de
-                                    profesionales para avanzar con los proyectos; no obstante, a través de la
-                                    comunicación virtual continuamos brindando asistencia a los proyectos en
-                                    curso.</br></br>
-
-                                    Los resultados reflejan que: </br>
+                                <p>Los resultados reflejan que: </br>
 
                                 <ul>
                                     <li> El 16 % de las empresas lideradas por mujeres accedieron al crédito del 24 %,
                                         principalmente a través de bancos provinciales</li>
-                                    <li>El 28 % de ellas accedió al ATP.</li>
+                                    <li>El 28 % de ellas accedió al ATP</li>
                                 </ul>
 
                                 </p>
-                                <div class="resaltado col-12 m-4">
-                                    <p>
-                                        Entre las mujeres que accedieron al ATP, <strong> 67 % utilizó el salario
-                                            complementario</strong> para los trabajadores en relación de dependencia,
-                                        <strong> 15 % el crédito al 0 %</strong> de interés, y el <strong>18 % usó la
-                                            postergación</strong> y/o reducción del pago <strong>de las contribuciones
-                                            patronales</strong>
-                                    </p>
+                                <div class="row justify-content-center">
+                                    <div class="resaltado col-8 m-4">
+                                        <p>
+                                            Entre las mujeres que accedieron al ATP, <strong> 67 % utilizó el salario
+                                                complementario</strong> para los trabajadores en relación de
+                                            dependencia,
+                                            <strong> 15 % el crédito al 0 %</strong> de interés, y el <strong>18 % usó
+                                                la
+                                                postergación</strong> y/o reducción del pago <strong>de las
+                                                contribuciones
+                                                patronales</strong>
+                                        </p>
+                                    </div>
                                 </div>
 
                                 <p>Además, de acuerdo con otro relevamiento realizado, se perciben cambios en el
@@ -243,17 +265,18 @@
                                 <h3>Financiamiento </h3>
                                 <p>Realizamos mesas de trabajo con funcionarios y representantes del Banco Nación, BICE
                                     y GARANTIZAR, logrando beneficios en las tasas y gastos en las líneas de crédito
-                                    para <strong> lideradas por Mujeres,</strong> sumando además capacitación en
+                                    para <strong> pymes lideradas por mujeres,</strong> sumando además capacitación en
                                     educación financiera, a través de seminarios y talleres, y realizando aportes
-                                    técnicos para impulsar el acceso al financiamiento de las Mujeres Empresarias.
+                                    técnicos para impulsar el acceso al financiamiento de las mujeres empresarias.
                                 </p>
                                 <h3>Articulación Público-Privada</h3>
-                                <p><strong> para el Empoderamiento de las Mujeres (WEPs)</strong>
-                                    En 2020, <strong>nos convertimos en la primera entidad gremial empresaria del país
-                                        en firmar los Principios para el Empoderamiento de las Mujeres (WEP’s),</strong>
-                                    reconocimiento otorgado por el Programa Ganar – Ganar: “La igualdad de género es un
-                                    buen negocio”, de ONU Mujeres en alianza con la Unión Europea y la Organización
-                                    Internacional del Trabajo (OIT). </p>
+                                <p>
+                                <h4> Principios para el Empoderamiento de las Mujeres (WEPs)</h4>
+                                En 2020, <strong>nos convertimos en la primera entidad gremial empresaria del país
+                                    en firmar los Principios para el Empoderamiento de las Mujeres (WEP’s),</strong>
+                                reconocimiento otorgado por el Programa Ganar – Ganar: “La igualdad de género es un
+                                buen negocio”, de ONU Mujeres en alianza con la Unión Europea y la Organización
+                                Internacional del Trabajo (OIT). </p>
 
                                 <p><strong>Este programa propone generar oportunidades de desarrollo para las mujeres
                                         dentro de las empresas, entidades públicas y privadas, y su participación en el
@@ -267,24 +290,24 @@
 
                                     (###Video WEPS)</p>
 
-                                <p><strong>Comisión Tripartita para la Igualdad de Oportunidades (CTIO) </strong>
-                                    Participamos en las mesas de diálogo y consensos sobre el Convenio 190,
-                                    recomendaciones OIT, violencia laboral, así como también en la Subcomisión de
-                                    Políticas de Formación y Empleo.</p>
+                                <p>
+                                <h4>Comisión Tripartita para la Igualdad de Oportunidades (CTIO) </h4>
+                                Participamos en las mesas de diálogo y consensos sobre el Convenio 190,
+                                recomendaciones OIT, violencia laboral, así como también en la Subcomisión de
+                                Políticas de Formación y Empleo.</p>
 
                                 <h3>Women Economic Forum</h3>
                                 <p> Fuimos protagonistas del Woman Economic Forum, evento de escala internacional, en el
                                     que se reflexionó sobre: <strong>desarrollo económico de la mujer, violencia por
                                         motivos de género, liderazgo y participación político-ciudadana, salud, turismo
-                                        pospandemia, salud reproductiva, desarrollo sostenible, medioambiente y deporte,
+                                        pospandemia, salud reproductiva, desarrollo sostenible, ambiente y deporte,
                                         haciendo foco en su relación con la crisis sanitaria mundial debido al
                                         COVID-19.</strong></p>
 
                                 <p>Allí realizamos una mesa de diálogo con la participación de la Presidenta del sector
                                     y sus seis directivas, en la cual cada una comentó los propósitos y objetivos del
-                                    sector: Desarrollo económico y participación en altos cargos directivos, la
-                                    participación transversal con los demás sectores de CAME, la articulación pública y
-                                    privada, capacitaciones, etc.
+                                    sector: desarrollo económico y participación en alto cargos directivos, articulación
+                                    público-privada y capacitaciones, entre otros temas.
                                     (###Flyer evento)</p>
 
                                 <h3>Convenios firmados:</h3>
@@ -337,18 +360,21 @@
                                 </h2>
 
 
-                                <p>Durante 2020 realizamos <strong> Rondas de Negocios</strong> Virtuales, 3
-                                    Multisectoriales y
-                                    4 Sectoriales, mediante las cuales <strong>386 empresas</strong> concretaron
+                                <p>Durante 2020 realizamos <strong> 7 Rondas de Negocios</strong> virtuales, 3
+                                    Multisectoriales y 4 Sectoriales, mediante las cuales <strong>386 empresas</strong>
+                                    concretaron
                                     <strong>2.380 entrevistas</strong> en <strong>131 mesas de negocios.</strong>
                                 </p>
 
-                                <div class="resaltado col-12 m-4">
-                                    <p> Los <strong>países</strong> participantes fueron: Argentina, Chile, Estados
-                                        Unidos y Paraguay.
-                                        </br> </br>
-                                        Las <strong>provincias</strong> con mayor participación fueron: Buenos Aires,
-                                        Mendoza, Entre Ríos, Tucumán, Santa Fe, Córdoba, Chaco y La Pampa.</p>
+                                <div class="row justify-content-center">
+                                    <div class="resaltado col-8 m-4">
+                                        <p> Los <strong>países</strong> participantes fueron: Argentina, Chile, Estados
+                                            Unidos y Paraguay.
+                                            </br> </br>
+                                            Las <strong>provincias</strong> con mayor participación fueron: Buenos
+                                            Aires,
+                                            Mendoza, Entre Ríos, Tucumán, Santa Fe, Córdoba, Chaco y La Pampa.</p>
+                                    </div>
                                 </div>
                             </div>
                         </section>
@@ -356,7 +382,7 @@
                         <section id="administracion-presupuestos">
                             <div class="col-12 mt-4">
                                 <h2>Administración de presupuestos</h2>
-                                <h3>Asistencia a Entidades</h3>
+                                <h3>Asistencia a entidades</h3>
                                 <p>
                                     Durante 2020, brindamos asistencia a 267 entidades por un total de <strong>$
                                         352.405.220,</strong> repartidos en:
@@ -380,15 +406,17 @@
                                 <p>
                                     FECOBA Joven participó en el Congreso Latinoamericano de Parlamentarios por los ODS,
                                     donde se abordó en detalle la Agenda 2030 de la ONU, con el objetivo de brindar más
-                                    y mejores herramientas a los miembros de FECOBA Joven a la hora de promover el
+                                    y mejores herramientas a los miembros de dicha entidad a la hora de promover el
                                     paradigma del triple impacto.
+
                                 </p>
                                 <h3>Reunión con el Subsecretario Pyme del GCBA</h3>
                                 <p>
-                                    Alejandro Kontos y Diego Nunes, en representación de Fecoba Joven, participaron en
+                                    Alejandro Kontos y Diego Nunes, en representación de FECOBA Joven, participaron en
                                     una audiencia con el Subsecretario Pyme del Gobierno de la Ciudad de Buenos Aires,
                                     Cristian Bauab, y el Director General de Juventud, Tomas Mestre, en la cual
-                                    abordaron temas generales correspondientes a la <strong>ón en emprendedurismo,
+                                    abordaron temas generales correspondientes a la <strong>capacitación en
+                                        emprendedurismo,
                                         sustentabilidad, nuevas tecnologías y el cambio de paradigmas que impulsó la
                                         crisis económica y sanitaria,</strong> consecuencia de la pandemia.
                                 </p>
@@ -409,7 +437,7 @@
                                 <h2>Financiamiento y Competitividad Pyme</h2>
 
                                 <p>
-                                    En este año tan particular, fortalecimos el aasesoramiento técnico y acompañamiento
+                                    En este año tan particular, fortalecimos el asesoramiento técnico y acompañamiento
                                     a entidades, pymes y emprendedores de todo el país, en materia de acceso al
                                     financiamiento, así como también a herramientas y programas de asistencia y
                                     capacitación.
@@ -417,7 +445,8 @@
                                     la Nación para confeccionar un Registro de emprendimientos y empresas que aportaran
                                     con su actividad a la mitigación de la propagación de la Covid -19.
                                     Luego de elaborado este Registro, el Ministerio junto con el Gobierno Nacional
-                                    lanzaron una serie de programas y medidas de emergencia. En este marco, brindamos
+                                    lanzaron una serie de programas y medidas de emergencia.</br> En este marco,
+                                    brindamos
                                     asesoramiento a emprendedores y empresas para que puedan presentarse a estos
                                     programas vinculados a la emergencia: Programa PAC Covid; Programa ATP de
                                     emergencia; Créditos a tasa 0% para monotributistas y autónomos; Línea de
@@ -431,7 +460,7 @@
                                     <li>Atendimos 2897 consultas de entidades, pymes y emprendedores de Argentina</li>
                                     <li>Acompañamos 280 nuevos proyectos a través de nuestra Plataforma online</li>
                                     <li>Alcanzamos 3683 reproducciones de nuestras videoconferencias, talleres y
-                                        Consultorios Regionales.</li>
+                                        Consultorios Regionales</li>
                                     <li>Acompañamos 30 mentorías virtuales de especialistas y pymes a emprendedores</li>
                                     <li>Presentamos 10 proyectos de emprendedores al PAC Reactivación Productiva, con un
                                         monto total solicitado de Aporte No Reembolsable (ANR): <strong>$
@@ -558,7 +587,8 @@
                                     pymes del sector de Agroalimentos y Bebidas diversas herramientas y casos de éxito
                                     en torno a la sustentabilidad.
                                 </p>
-                                <p>Con un promedio de <strong> participantes en cada uno de los 8 encuentros,</strong>
+                                <p>Con un promedio de <strong> 40 participantes en cada uno de los 8
+                                        encuentros,</strong>
                                     expusimos temas como Buenas Prácticas Agrícolas (BPA), Trazabilidad y Buenas
                                     Prácticas Manufactureras (BPM), en los que hicimos hincapié en materias primas,
                                     compras sostenibles, comercio y consumo responsable y pérdida y desperdicio de
@@ -581,30 +611,41 @@
 
                                 <p> A través de auditorías remotas, las pymes Capilla del Señor (empresa cordobesa del
                                     sector lácteo) y El Desafío del Inmigrante (firma sanjuanina olivícola), obtuvieron
-                                    la aprobación del comité de certificación, convirtiéndose así en las dos primeras
-                                    empresas en alcanzar el sello. </p>
+                                    la aprobación del comité de certificación, convirtiéndose así en las <strong>dos
+                                        primeras
+                                        empresas en alcanzar el sello.</strong> </p>
 
-                                <p> Asimismo, durante el año avanzamos en nuevas auditorías como a la empresa láctea
-                                    Savaz, radicada en el parque industrial de Ucacha, Córdoba, y comenzamos a ejecutar
-                                    la segunda fase del proyecto, ajustando los protocolos existentes y generando nuevos
-                                    para incorporar a los sectores de foresto industria, y producción porcina,
+                                <p> Asimismo, durante el año avanzamos en <strong>nuevas auditorías</strong> como a la
+                                    empresa láctea
+                                    Savaz, radicada en el parque industrial de Ucacha, Córdoba, y <strong>comenzamos a
+                                        ejecutar
+                                        la segunda fase del proyecto,</strong> ajustando los protocolos existentes y
+                                    generando nuevos
+                                    para incorporar a los sectores de foresto industria, producción porcina,
                                     chacinados y salazones. </p>
 
                                 <p>Estos avances se vieron complementados por un fuerte trabajo intersectorial a través
-                                    del cual se desarrolló una plataforma para la gestión de la certificación
+                                    del cual se desarrolló una <strong>plataforma para la gestión de la
+                                        certificación</strong>
                                     conjuntamente con el Departamento de Estadísticas de la entidad, así como una
-                                    estrategia comercial que permite que el producto sea competitivo y accesible a todas
-                                    las empresas de nuestro país interesadas en acceder a ella.</p>
+                                    <strong>estrategia comercial</strong> que permite que el producto sea competitivo y
+                                    accesible a todas
+                                    las empresas de nuestro país interesadas en acceder a ella.
+                                </p>
 
                                 <p> (###Fotos sello)</p>
-                                <div class="resaltado col-12 m-4">
-                                    <h3> Alianzas institucionales </h3>
+                                <div class="row justify-content-center">
+                                    <div class="resaltado col-8 m-4">
+                                        <h3> Alianzas institucionales </h3>
 
-                                    <p> En el marco de nuestro sello fortalecimos las alianzas con el Consejo de los
-                                        Profesionales del Agro, Alimentos y Agroindustria (CPIA), y la Cámara Argentina
-                                        de Certificadoras de Alimentos, Productos Orgánicos y Afines (CACER), a través
-                                        de diversas acciones que día a día acompañan e impulsan el crecimiento de la
-                                        certificación.</p>
+                                        <p> En el marco de nuestro sello fortalecimos las alianzas con el Consejo de los
+                                            Profesionales del Agro, Alimentos y Agroindustria (CPIA), y la Cámara
+                                            Argentina
+                                            de Certificadoras de Alimentos, Productos Orgánicos y Afines (CACER), a
+                                            través
+                                            de diversas acciones que día a día acompañan e impulsan el crecimiento de la
+                                            certificación.</p>
+                                    </div>
                                 </div>
 
 

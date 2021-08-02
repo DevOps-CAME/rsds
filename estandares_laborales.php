@@ -272,8 +272,8 @@
                                 <h3>Seguridad en el Trabajo </h3>
                                 <p>La Dirección Ejecutiva, y los departamentos de RR.HH., Legales, Intendencia y
                                     Seguridad e Higiene, conformaron el “Comité Covid-19”. En este marco, diseñamos
-                                    nuestro Protocolo de Prevención con el objetivo de minimizar los riesgos de
-                                    propagación y contagio del Covid-19 en el lugar de trabajo. </p>
+                                    nuestro Protocolo de Prevención con el objetivo de <strong>minimizar los riesgos de
+                                    propagación y contagio del Covid-19 en el lugar de trabajo.</strong> </p>
 
                                 <p>En el mes de julio, adaptamos dicho protocolo a la Norma IRAM EDP 3820, y en agosto
                                     comenzamos el proceso de Certificación de Aplicación Segura de Protocolo Covid-19 y
@@ -321,9 +321,9 @@
                                         </tr>
                                         <tr>
                                             <td>Total General</td>
-                                            <td>26 becas</td>
-                                            <td>30 becas</td>
-                                            <td>25 becas</td>
+                                            <td>26</td>
+                                            <td>30</td>
+                                            <td>25</td>
 
 
                                         </tr>
@@ -397,9 +397,7 @@
                                 <h2>¡Hay Equipo!</h2>
                                 <h3>Sumando en CAME</h3>
 
-                                <p>A través de espacios virtuales y talleres para líderes y colaboradores, durante 2020
-                                    continuamos fortaleciendo e impulsando el trabajo en equipo por medio del programa
-                                    interno Sumando en CAME, mediante ciclos de charlas de capacitación:
+                                <p>A través de espacios virtuales y talleres para líderes y colaboradores, durante 2020 continuamos fortaleciendo e impulsando el trabajo en equipo por medio del programa interno Sumando en CAME a través del cual dictamos las siguientes capacitaciones:
                                 </p>
                                 <ul class="ml-4">
                                     <li>Inclusión consciente</li>

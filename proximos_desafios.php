@@ -41,7 +41,7 @@
                             <div class="col-12 mt-4">
 
                                 <p>
-                                    Presentamos algunos de los desafíos sectoriales propuestos para el año 2021. A su vez, a partir de los resultados del análisis de Materialidad, serán definidos nuevos horizontes alineando los objetivos estratégicos de CAME con los temas que han sido elegidos como los más relevantes por nuestros públicos de relación. 
+                                    Presentamos algunos de los desafíos sectoriales propuestos para el año 2021. A su vez, a partir de los resultados del análisis de Materialidad, serán definidos nuevos horizontes alineando nuestros objetivos estratégicos con los temas que han sido elegidos como los más relevantes por nuestros públicos de relación. 
                                 </p>
 
                             </div>
@@ -62,7 +62,7 @@
                                                         </div>
                                                         <div class="fbox-content">
                                                             <h3 class="font-weight-normal ls0 nott">Administracion</h3>
-                                                            <p >Recertificar nuestro Sistema de Gestión de la Calidad bajo la Norma IRAM 9001:2015, siempre con el objetivo de enfocarse en los resultados de los procesos, la satisfacción de sus clientes y la mejora continua, con transparencia y eficiencia.
+                                                            <p >Recertificar nuestro Sistema de Gestión de la Calidad bajo la Norma IRAM 9001:2015, con el objetivo de continuar fortaleciendo nuestro enfoque en los resultados de los procesos, la satisfacción de nuestros públicos y la mejora continua, con transparencia y eficiencia.
 
                                                             </p>
                                                             
@@ -84,7 +84,7 @@
                                                         <div class="fbox-content">
                                                             <h3 class="font-weight-normal ls0 nott">Industria</h3>
                                                             <p >Promover la economía circular y el desarrollo sustentable en las industrias nacionales.</p><p>
-                                                                Crear una Comisión de Minería la cual trabaje en temas puntuales como el Manual de Procedimientos, Análisis de Competitividad de la Cadena de Valor Minera y Sustitución de Importaciones, proveedores mineros, entre otros.
+                                                                Crear una Comisión de Minería la cual trabaje en temas puntuales como  Manuales de Procedimientos, Análisis de Competitividad de la Cadena de Valor Minera y Sustitución de Importaciones y proveedores mineros, entre otros.
                                                                 </p>
                                                                 <p>Realizar un importante desarrollo en actualización tecnológica, con planes de capacitación para los industriales, mandos medios y operadores.</p>
                                                             
@@ -105,7 +105,7 @@
                                                         </div>
                                                         <div class="fbox-content">
                                                             <h3 class="font-weight-normal nott ls0">Comercio</h3>
-                                                            <p >Desarrollar nuevas actividades de capacitación, tanto para dirigentes como para comerciantes, y diseñar un programa específico para aplicar en los Centros Comerciales Abiertos, con acciones concretas que contribuyan al mejoramiento urbano, basadas en condiciones aceptables para el sostenimiento ambiental
+                                                            <p >Ampliar las actividades de capacitación, tanto para dirigentes como para comerciantes, y diseñar un programa específico para aplicar en los Centros Comerciales Abiertos, con acciones concretas que contribuyan al mejoramiento urbano, basadas en condiciones aceptables para el sostenimiento ambiental.
 
                                                             </p>
                                                            
@@ -148,7 +148,7 @@
                                                         </div>
                                                         <div class="fbox-content">
                                                             <h3 class="font-weight-normal ls0 nott">Capacitación</h3>
-                                                            <p >Implementar progresivamente la modalidad blended o mixta (cursos con una parte presencial y otra virtual) para la oferta de actividades de capacitación
+                                                            <p >Implementar progresivamente la modalidad blended ó mixta (cursos con una parte presencial y otra virtual) para la oferta de actividades de capacitación
 
                                                             </p><p>
                                                                 Desarrollar un nuevo espacio de formación profesional para los directivos gremiales empresarios en gestión ágil y profesional, y comunicación efectiva con actores del sector público.
@@ -192,8 +192,15 @@
                                                             <svg enable-background="new 0 0 496.592 496.592" viewBox="0 0 496.592 496.592" xmlns="https://www.w3.org/2000/svg"><path d="m400.296 328v-51.696l-21.816 8.488-.064-.144-.52-.944c-8.36-13.016-21.88-22.072-37.104-24.832l-52.496-9.552v-4.144c19.632-11.4 34.008-30.848 38.488-53.84 14.544-3.008 25.512-15.912 25.512-31.336v-79.016c0-22.328-14.624-41.8-35.84-48.136l-4-4c-18.608-18.608-43.344-28.848-69.656-28.848-54.312 0-98.504 44.184-98.504 98.504v61.496c0 15.424 10.968 28.328 25.512 31.336 4.488 22.992 18.856 42.448 38.488 53.84v4.144l-52.488 9.544c-15.208 2.76-28.72 11.8-37.088 24.808l-.48 1.168-21.944-8.536v51.696c-13.232 0-24 10.768-24 24v32c0 13.232 10.768 24 24 24v29.472l152 59.12 152-59.12v-29.472c13.232 0 24-10.768 24-24v-32c0-13.232-10.768-24-24-24zm-97.008-59.688 34.64 6.296c10.2 1.856 19.232 7.744 25.256 16.128l-77.4 30.096zm-78.312-15.8c7.384 2.256 15.208 3.488 23.32 3.488s15.936-1.232 23.32-3.488l-23.32 17.488zm11.144 28.352-16.328 16.32-10.592-31.768 5.096-.92zm46.176-16.36 5.096.92-10.592 31.768-16.328-16.32zm46-90.728v-27.552c4.76 2.776 8 7.88 8 13.776s-3.24 11-8 13.776zm-160 0c-4.76-2.776-8-7.88-8-13.776s3.24-11 8-13.776zm0-53.776v9.136c-2.848.744-5.52 1.864-8 3.312v-33.944c0-45.488 37.008-82.504 82.504-82.504 22.032 0 42.76 8.584 58.344 24.168l7.056 7.064 2.152.528c15.28 3.816 25.944 17.48 25.944 33.224v51.464c-2.48-1.448-5.152-2.576-8-3.312v-9.136h-25.368c-21.68 0-42.4-10.352-55.4-27.688l-6.36-8.496-15.896 15.904c-13.088 13.08-30.48 20.28-48.976 20.28zm16 56v-40.368c19.752-1.832 38.08-10.4 52.288-24.6l3.112-3.112c16.04 17.704 39.144 28.08 63.232 28.08h9.368v40c0 35.288-28.712 64-64 64s-64-28.712-64-64zm-25.632 98.608 34.64-6.296 17.504 52.52-77.416-30.104c6.024-8.392 15.072-14.264 25.272-16.12zm-70.368 109.392v-32c0-4.416 3.592-8 8-8 13.232 0 24 10.768 24 24s-10.768 24-24 24c-4.408 0-8-3.584-8-8zm152 92.304-128-49.768v-21.928c14.104-6.192 24-20.248 24-36.608s-9.896-30.416-24-36.608v-31.696l128 49.776zm-23.752-153.232 31.752-31.76 31.752 31.752-31.752 12.352zm167.752 103.456-128 49.768v-126.824l128-49.776v31.696c-14.104 6.192-24 20.248-24 36.608s9.896 30.416 24 36.608zm24-42.528c0 4.416-3.592 8-8 8-13.232 0-24-10.768-24-24s10.768-24 24-24c4.408 0 8 3.584 8 8z"/></svg>
                                                         </div>
                                                         <div class="fbox-content">
-                                                            <h3 class="font-weight-normal ls0 nott">Responsabilidad Social</h3>
-                                                            <p >Crear un Banco de Buenas Prácticas Ambientales en Centros Comerciales Abiertos, así como la elaboración de una guía práctica para la aplicación de las mismas en el sector comercial.</p>
+                                                            <h3 class="font-weight-normal ls0 nott">Responsabilidad Social y Desarrollo Sustentable</h3>
+                                                            <p ><ul>
+                                                                <li> Crear de un índice de "Triple Impacto" que permita medir incorporación de la Responsabilidad Social en mipymes.</li>
+                                                                <li> Fortalecer y ampliar herramientas prácticas que posibiliten la implementación de esquemas de gestión sustentable y mipymes y emprendedores.</li>
+                                                                <li> Fomentar la capacitación y formación profesional en temas relacionados a nuevas tendencias de producción y consumo.</li>
+                                                                <li> Consolidar e impulsar espacios de intercambio y aprendizaje que permitan seguir posicionando a nuestra entidad como referente en temas vinculados al Desarrollo Sustentable de mipymes.</li>
+                                                                <li> Afianzar políticas internas que permitan seguir desarrollando el correcto balance entre la vida personal y laboral, conjuntamente con acciones tendientes a lograr una mayor equidad de género.</li>
+                                                            </ul>
+                                                                </p>
                                                             
                                                         </div>
                                                     </div>
@@ -211,7 +218,7 @@
                                                         </div>
                                                         <div class="fbox-content">
                                                             <h3 class="font-weight-normal ls0 nott">Jóvenes</h3>
-                                                            <p >Desarrollar campañas de reciclaje y retiro de residuos electrónicos en los distintos Centros Comerciales a Cielo Abierto de la Ciudad de Buenos Aires, con certificado de disposición final y capacitación del personal de las cámaras de base para operar y almacenar este tipo de residuos. 
+                                                            <p >Desarrollar campañas de reciclaje y retiro de residuos electrónicos en los distintos Centros Comerciales Abiertos de la Ciudad de Buenos Aires, con certificado de disposición final y capacitación del personal de las cámaras de base para operar y almacenar este tipo de residuos. 
                                                             </p>
                                                             
                                                         </div>
@@ -220,7 +227,38 @@
                                             </div>
                                         </div>
 
-                                        
+                                        <div class="col-md-4 px-lg-4 mt-3 mt-md-0">
+                                            <!-- Financiamiento  -->
+                                            <div class="card border-color-info p-2 py-lg-5 px-xl-3 px-lg-2">
+                                                <div class="card-body rounded">
+                                                    <div class="feature-box media-box">
+                                                        <div class="fbox-icon position-relative mb-3" style="width: 50px;height: 50px">
+                                                            <svg enable-background="new 0 0 496.592 496.592" viewBox="0 0 496.592 496.592" xmlns="https://www.w3.org/2000/svg"><path d="m400.296 328v-51.696l-21.816 8.488-.064-.144-.52-.944c-8.36-13.016-21.88-22.072-37.104-24.832l-52.496-9.552v-4.144c19.632-11.4 34.008-30.848 38.488-53.84 14.544-3.008 25.512-15.912 25.512-31.336v-79.016c0-22.328-14.624-41.8-35.84-48.136l-4-4c-18.608-18.608-43.344-28.848-69.656-28.848-54.312 0-98.504 44.184-98.504 98.504v61.496c0 15.424 10.968 28.328 25.512 31.336 4.488 22.992 18.856 42.448 38.488 53.84v4.144l-52.488 9.544c-15.208 2.76-28.72 11.8-37.088 24.808l-.48 1.168-21.944-8.536v51.696c-13.232 0-24 10.768-24 24v32c0 13.232 10.768 24 24 24v29.472l152 59.12 152-59.12v-29.472c13.232 0 24-10.768 24-24v-32c0-13.232-10.768-24-24-24zm-97.008-59.688 34.64 6.296c10.2 1.856 19.232 7.744 25.256 16.128l-77.4 30.096zm-78.312-15.8c7.384 2.256 15.208 3.488 23.32 3.488s15.936-1.232 23.32-3.488l-23.32 17.488zm11.144 28.352-16.328 16.32-10.592-31.768 5.096-.92zm46.176-16.36 5.096.92-10.592 31.768-16.328-16.32zm46-90.728v-27.552c4.76 2.776 8 7.88 8 13.776s-3.24 11-8 13.776zm-160 0c-4.76-2.776-8-7.88-8-13.776s3.24-11 8-13.776zm0-53.776v9.136c-2.848.744-5.52 1.864-8 3.312v-33.944c0-45.488 37.008-82.504 82.504-82.504 22.032 0 42.76 8.584 58.344 24.168l7.056 7.064 2.152.528c15.28 3.816 25.944 17.48 25.944 33.224v51.464c-2.48-1.448-5.152-2.576-8-3.312v-9.136h-25.368c-21.68 0-42.4-10.352-55.4-27.688l-6.36-8.496-15.896 15.904c-13.088 13.08-30.48 20.28-48.976 20.28zm16 56v-40.368c19.752-1.832 38.08-10.4 52.288-24.6l3.112-3.112c16.04 17.704 39.144 28.08 63.232 28.08h9.368v40c0 35.288-28.712 64-64 64s-64-28.712-64-64zm-25.632 98.608 34.64-6.296 17.504 52.52-77.416-30.104c6.024-8.392 15.072-14.264 25.272-16.12zm-70.368 109.392v-32c0-4.416 3.592-8 8-8 13.232 0 24 10.768 24 24s-10.768 24-24 24c-4.408 0-8-3.584-8-8zm152 92.304-128-49.768v-21.928c14.104-6.192 24-20.248 24-36.608s-9.896-30.416-24-36.608v-31.696l128 49.776zm-23.752-153.232 31.752-31.76 31.752 31.752-31.752 12.352zm167.752 103.456-128 49.768v-126.824l128-49.776v31.696c-14.104 6.192-24 20.248-24 36.608s9.896 30.416 24 36.608zm24-42.528c0 4.416-3.592 8-8 8-13.232 0-24-10.768-24-24s10.768-24 24-24c4.408 0 8 3.584 8 8z"/></svg>
+                                                        </div>
+                                                        <div class="fbox-content">
+                                                            <h3 class="font-weight-normal ls0 nott">Financiamiento</h3>
+                                                            <p><strong>Consolidar la unidad Educación Financiera dirigida a</strong></br>
+                                                                entidades, pymes y emprendedores a través del desarrollo de un Programa
+                                                                propio de FINANCAME en colaboración con organismos. 
+                                                          <strong> Continuar impulsando</strong></br>
+                                                                los servicios que brindamos a emprendedores de todo el país desde CAME
+                                                                INCUBA, posibilitando la creación de nuevas empresas. Y, en este marco
+                                                                darles más visibilidad potenciando el Catálogo Emprendedor CAME INCUBA. 
+                                                          <strong> Desarrollar un nuevo “Ciclo de Encuentros Interactivos</strong></br>
+                                                                de CAME INCUBA 2021” orientados a dar herramientas prácticas, fácilmente
+                                                                aplicables a los emprendimientos de todo el país que acompañamos desde
+                                                                nuestra Incubadora. 
+                                                           <strong>Promocionar nuevos</strong></br>
+                                                                espacios de intercambio y vinculación local entre organismos públicos,
+                                                                entidades empresarias, pymes y emprendedores de la Red CAME. 
+                                                           
+                                                            </p>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
 
                                     </div>
                           
