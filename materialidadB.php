@@ -176,8 +176,7 @@
                                     organización,</strong> y
                                 nos permite crear un plan de acción que responda a estas prioridades para generar
                                 <strong>valor compartido</strong> a nivel <strong>económico, social y ambiental.
-                                </strong>
-                            </p>
+                                </strong></p>
                         </div>
 
 
@@ -193,23 +192,17 @@
                             <!-- Charts Area End -->
 
                             <p>
-                                Esto evidencia que, para nuestros stakeholders, los aspectos más importantes son:</p>
-                            <div class="row">
-                                <div class="col-3">Eje ambiental: divulgación e Implementación de los ODS; divulgación e
-                                    implementación de Programas de Certificación de Sustentabilidad de productos y
-                                    servicios, y campañas de concientización de problemáticas ambientales.</div>
-                                <div class="col-3">Eje social: herramientas para comunicar y captar al nuevo consumidor;
-                                    equidad de género y lucha contra el comercio ilegal. </div>
-                                <div class="col-3">Eje económico: cadena de valor; competitividad y el emprendedurismo.
-                                </div>
-                                <div class="col-3">
-                                    Eje Liderazgo y Gestión del Negocio: recambio generacional; identificación y gestión
-                                    de riesgos y el cumplimiento legal.
-                                </div>
-                            </div>
+                            Esto evidencia que, para nuestros stakeholders, los aspectos más importantes son:</p>
+<div class="row">
+                            <div class="col-3">Eje ambiental: divulgación e Implementación de los ODS; divulgación e implementación de Programas de Certificación de Sustentabilidad de productos y servicios, y campañas de concientización de problemáticas ambientales.</div>
+                            <div class="col-3">Eje social: herramientas para comunicar y captar al nuevo consumidor; equidad de género y lucha contra el comercio ilegal. </div>
+                            <div class="col-3">Eje económico: cadena de valor; competitividad y el emprendedurismo.</div>
+                            <div class="col-3">
+Eje Liderazgo y Gestión del Negocio: recambio generacional; identificación y gestión de riesgos y el cumplimiento legal.
+</div></div>
 
 
-
+                            
                         </div>
                     </div>
                 </div>
@@ -241,44 +234,41 @@
 
     <script>
     var color = Chart.helpers.color;
-
     var scatterChartData = {
-
         datasets: [{
             label: "Ambiental",
             borderColor: window.chartColors.green,
             backgroundColor: color(window.chartColors.green).alpha(0.2).rgbString(),
             pointRadius: 15,
             pointHoverRadius: 20,
-            
             data: [{
                 titulo: "Consumo de energía, eficiencia energética y reducción de emisiones de gases de efecto invernadero (GEI)",
-                x: -2,
-                y: -0.5,
+                x: 1.928571429,
+                y: 2.706018519,
             }, {
                 titulo: "Consumo de agua, eficiencia hídrica y reducción de la contaminación del agua",
-                x: -1.25,
-                y: -1.1,
+                x: 2.357142857,
+                y: 2.460648148,
             }, {
                 titulo: "Gestión de residuos y economía circular",
-                x: -0.7,
-                y: -0.2,
+                x: 2.571428571,
+                y: 2.928240741,
             }, {
                 titulo: "Divulgación e implementación de los Objetivos de Desarrollo Sostenible de Naciones Unidas",
-                x: 0.15,
-                y: 1.7,
+                x: 2.785714286,
+                y: 3.87037037,
             }, {
                 titulo: "Divulgación e implementación de programas de certificación de sustentabilidad de productos y servicios",
-                x: 0.15,
-                y: 1.2,
+                x: 2.785714286,
+                y: 3.673611111,
             }, {
                 titulo: "Lucha contra la pérdida y el desperdicio de alimentos",
-                x: 1.65,
-                y: 0.7,
+                x: 3.285714286,
+                y: 3.342592593,
             }, {
                 titulo: "Campañas internas de concientización de problemáticas ambientales",
-                x: 1.15,
-                y: 0.7,
+                x: 3.071428571,
+                y: 3.356481481,
             }]
 
 
@@ -290,36 +280,36 @@
             pointHoverRadius: 20,
             data: [{
                 titulo: "Derechos Humanos y estándares laborales",
-                x: 1.6,
-                y: 0.35,
+                x: 3.285714286,
+                y: 3.18287037,
             }, {
                 titulo: "Equidad de género",
-                x: 3,
-                y: 1.5,
+                x:4 ,
+                y:3.724537037 ,
             }, {
                 titulo: "Diversidad e inclusión laboral de grupos vulnerables",
-                x: 3.9,
-                y: 0.95,
+                x:4.428571429 ,
+                y:3.421296296 ,
             }, {
                 titulo: "Normativa laboral para promover la formalización del empleo",
-                x: -1.6,
-                y: 0.2,
+                x:2.214285714 ,
+                y:3.12037037 ,
             }, {
                 titulo: "Seguridad e higiene en el trabajo",
-                x: 1.75,
-                y: 0.8,
+                x:3.357142857 ,
+                y:3.416666667 ,
             }, {
                 titulo: "Herramientas para comunicar y captar al nuevo consumidor",
-                x: 2.2,
-                y: 2.2,
+                x:3.571428571 ,
+                y:4.155092593 ,
             }, {
                 titulo: "Lucha contra el comercio ilegal",
-                x: -1.6,
-                y: 1.9,
+                x:2.214285714 ,
+                y:3.981481481 ,
             }, {
                 titulo: "Capacitaciones",
-                x: 1.15,
-                y: 0.5,
+                x:3.071428571 ,
+                y:3.289351852 ,
             }]
         }, {
             label: "Económica",
@@ -327,55 +317,59 @@
             backgroundColor: color(window.chartColors.purple).alpha(0.2).rgbString(),
             pointRadius: 15,
             pointHoverRadius: 20,
-            data: [{
-                titulo: "Competitividad",
-                x: -0.7,
-                y: 0.15,
-            }, {
-                titulo: "Innovación y recambio tecnológico",
-                x: -2.8,
-                y: -0.9,
-            }, {
-                titulo: "Impactos del cambio climático",
-                x: 2,
-                y: -0.05,
-            }, {
-                titulo: "Emprendedurismo",
-                x: 0.2,
-                y: -0.35,
-            }, {
-                titulo: "Acceso al financiamiento",
-                x: -1.15,
-                y: -0.45,
-            }, {
-                titulo: "Cadena de valor (ejemplo: trazabilidad y desarrollo)",
-                x: 1.65,
-                y: 0.65,
-            }]
+            data: [
+            {
+                titulo:"Competitividad",
+                x:2.571428571 ,
+                y:3.064814815 ,
+            },{
+                titulo:"Innovación y recambio tecnológico",
+                x:1.571428571 ,
+                y:2.560185185 ,
+            },{
+                titulo:"Impactos del cambio climático",
+                x:3.5 ,
+                y:2.965277778 ,
+            },{
+                titulo:"Emprendedurismo",
+                x:2.785714286 ,
+                y:2.752314815 ,
+            },{
+                titulo:"Acceso al financiamiento",
+                x:2.428571429 ,
+                y:2.706018519 ,
+            },{
+                titulo:"Cadena de valor (ejemplo: trazabilidad y desarrollo)",
+                x:3.285714286 ,
+                y:3.319444444 ,
+            }
+        ]
         }, {
             label: "Liderazgo y gestión del negocio",
             borderColor: window.chartColors.yellow,
             backgroundColor: color(window.chartColors.yellow).alpha(0.2).rgbString(),
             pointRadius: 15,
             pointHoverRadius: 20,
-            data: [{
-                titulo: "Ética y transparencia (medidas de anticorrupción, acceso a la información y principios éticos)",
-                x: -3.5,
-                y: -2.2,
-            }, {
-                titulo: "Cumplimiento legal (cumplimiento del marco legal necesario para poner en funcionamiento su actividad)",
-                x: -1.7,
-                y: -1.8,
-            }, {
-                titulo: "Identificación y manejo de riesgos (situaciones no previstas que pueden poner en riesgo el negocio)",
-                x: -1.25,
-                y: -1.4,
-            }, {
-                titulo: "Recambio generacional (herramientas para la transición generacional e inclusión de jóvenes empresarios)",
-                x: -1.25,
-                y: -1.05,
-            }]
-        }]
+            data: [
+            {
+                titulo:"Ética y transparencia (medidas de anticorrupción, acceso a la información y principios éticos)",
+                x:1.285714286,
+                y:1.863425926,
+            },{
+                titulo:"Cumplimiento legal (cumplimiento del marco legal necesario para poner en funcionamiento su actividad)",
+                x:2.142857143,
+                y:2.104166667,
+            },{
+                titulo:"Identificación y manejo de riesgos (situaciones no previstas que pueden poner en riesgo el negocio)",
+                x:2.357142857,
+                y:2.303240741,
+            },{
+                titulo:"Recambio generacional (herramientas para la transición generacional e inclusión de jóvenes empresarios)",
+                x:2.357142857,
+                y:2.486111111,
+            }
+        ]}
+        ]
 
     };
 
@@ -385,56 +379,18 @@
             data: scatterChartData,
             options: {
                
-                responsive: true,
-                scales: {
-                    xAxes: [{
-                        gridLines: {
-                            display: true,
-                            zeroLineColor: 'black',
-                            color: 'transparent'
-                        },
-                        scaleLabel: {
-                            display: true,
-                            fontSize: 18,
-                            labelString: '[BAJA | MEDIA | ALTA] Relevancia para los consejeros de CAME',
-                        },
-                        ticks: {
-                        display: false
-                                  
-                        }
-                    }],
-                    yAxes: [{
-                        gridLines: {
-                            display: true,
-                            zeroLineColor: 'black',
-                            color: 'transparent'
-
-                        },
-                        scaleLabel: {
-                            display: true,
-                            fontSize: 18,
-                            labelString:  "Relevancia para los grupos de interés",
-                        },
-                        ticks: {
-                        display: false                        
-                        }
-                    }],
-
-
-                },
                 tooltips: {
                     callbacks: {
                         label: function(tooltipItem, data) {
-                            var titulito = data['datasets'][tooltipItem.datasetIndex]['data'][tooltipItem.index]['titulo'];
+                            var titulito = data['datasets'][tooltipItem.datasetIndex]['data'][
+                                tooltipItem.index
+                            ]['titulo'];
                             console.log(titulito);
                             return titulito;
                         }
                     }
                 }
             }
-
-
-
         });
     };
     </script>

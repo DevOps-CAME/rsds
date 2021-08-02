@@ -16,4 +16,24 @@
 
 .resaltado p{
 	margin: 0;
+    font-size: 1.25rem;
+    font-weight: 800;
+}
+.resaltado li{
+    font-size: 1.25rem;
+    font-weight: 800;
+}
+.resaltado li i{
+	margin-right: 1.5rem !important;
+}
+
+body ul {
+	margin-left: 1.5rem;
+}
+
+.sub-menu-container .menu-item > .menu-link {
+	padding: 10px 0px;
+}
+.sub-menu-container .menu-item:hover > .menu-link {
+	padding-left: 2px;
 }

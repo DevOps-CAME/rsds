@@ -196,15 +196,15 @@
                                 </p>
                                 <div class="row justify-content-center">
                                     <div class="resaltado col-8 m-4">
-                                        <p>
-                                        <ul>
-                                            <li>Recursos Humanos</li>
-                                            <li>Habilidades Gerenciales</li>
-                                            <li>Emprendedores</li>
-                                            <li>Franquicias</li>
-                                            <li>Herramientas Digitales para Pymes</li>
+                                    
+                                        <ul class="iconlist m-0 p-0">
+                                            <li><i class="icon-chalkboard-teacher"></i> Recursos Humanos</li>
+                                            <li><i class="icon-chalkboard-teacher"></i> Habilidades Gerenciales</li>
+                                            <li><i class="icon-chalkboard-teacher"></i> Emprendedores</li>
+                                            <li><i class="icon-chalkboard-teacher"></i> Franquicias</li>
+                                            <li><i class="icon-chalkboard-teacher"></i> Herramientas Digitales para Pymes</li>
                                         </ul>
-                                        </p>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -218,13 +218,28 @@
                                 <p>Relevamos el impacto que las medidas derivadas del <strong> tuvieron en las
                                         comerciantes y empresarias de la Argentina.</strong> Los resultados fueron
                                     contundentes:
-                                <ul>
-                                    <li>El 81 % de las mujeres vio afectada su rutina de tareas </li>
-                                    <li>El 70 % tuvo que restar horas a su empresa por las tareas de cuidado y
-                                        domésticas</li>
-                                    <li>El 1 % manifestó sentirse deprimida</li>
-                                </ul>
+                             
                                 </p>
+
+                                <div class="row col-mb-50 mb-5">
+                                    <div class="col-sm-4 col-lg-4 text-center">
+                                        <div class="counter">El <span data-from="1" data-to="81" data-refresh-interval="3" data-speed="800">0</span>%</div>
+                                        <h5>de las mujeres vio afectada su rutina de tareas</h5>
+                                    </div>
+
+                                    <div class="col-sm-4 col-lg-4 text-center">
+                                        <div class="counter">El <span data-from="1" data-to="70" data-refresh-interval="3" data-speed="1000">0</span>%</div>
+                                        <h5>tuvo que restar horas a su empresa</br> por las tareas de cuidado y domésticas</h5>
+                                    </div>
+
+                                    <div class="col-sm-4 col-lg-4 text-center">
+                                        <div class="counter">El <span data-from="0" data-to="1" data-refresh-interval="1" data-speed="600">0</span>%</div>
+                                        <h5>manifestó sentirse deprimida</h5>
+                                    </div>
+            
+                                
+            
+                                </div>
 
                                 <p>También hicimos un relevamiento a empresarias para conocer las dificultades de acceso
                                     al financiamiento, específicamente a: Crédito del 24 % otorgado por el Gobierno
