@@ -7,65 +7,43 @@
     <div id="wrapper" class="clearfix">
 
         <?php include "header.php" ?>
-
-		    <!-- Slider
+        <!-- Slider
 		============================================= -->
-        <section id="slider"
-            class="slider-element slider-parallax swiper_wrapper min-vh-60 min-vh-md-100 include-header">
+        <section id="slider" class="slider-element min-vh-100 include-header" style="background-color: #ffffff;">
             <div class="slider-inner">
+                <img src="images/mundito.png" style="width: 48vw; top: 1vh; left: 4vw; position: absolute;" alt=""
+                    class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 250px;">
+                <img src="images/back-der.png" style="height: 101vh; position: fixed; right: 0px;" alt=""
+                    class="slider-img">
+                <img src="images/back-izk.png" style="width: 20vw; position: fixed; left: 0px; bottom: 0px;" alt=""
+                    class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;">
+                <img src="images/RSDS.png" style="width: 15vw; position: fixed; left: 1vw; bottom: 1vh;" alt=""
+                    class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;">
 
-                <div class="swiper-container swiper-parent">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="container">
+                <div class="vertical-middle parallax" data-start="margin-top: 0px;" data-400="margin-top: 200px;">
+                    <div class="pl-4">
+                        <div class="d-flex flex-row-reverse">
+                            <div class="col-md-5">
+                                <div class="slider-title">
+                                    <p style="    font-size: 1.7rem;
+                                    font-weight: 600;
+                                    line-height: 1.9rem;
+                                    color: #708190;"> DESDE 1956 JUNTO A</br> LAS PYMES ARGENTINAS </p>
 
-                            </div>
-                            <div class="swiper-slide-bg" style="background-image: url('images/tapa.jpg');"></div>
-                        </div>
-                        <div class="swiper-slide dark">
-                            <div class="container">
-                                <div class="slider-caption slider-caption-center">
-                                    <h2 data-animate="fadeInUp">Beautifully Flexible</h2>
-                                    <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Looks
-                                        beautiful
-                                        &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive
-                                        functionality that can be adapted to any screen size.</p>
+                                    <h1 style="font-weight: 900; font-size: 6rem; line-height: 6rem; ">
+                                        <span style="color: #99d2e3;">2020</span><span style="position: absolute; height: 1vh; border-bottom: 14px solid #99d2e3;top: 14vh; width: 290px; margin-left: 0.5vw;">&nbsp;</span></br>Reporte de Gestión Social y Ambiental
+                                    </h1>
+
                                 </div>
-                            </div>
-                            <div class="video-wrap">
-                                <video id="slide-video" poster="images/videos/explore-poster.jpg" preload="auto" loop
-                                    autoplay muted>
-                                    <source src='images/videos/explore.webm' type='video/webm' />
-                                    <source src='images/videos/explore.mp4' type='video/mp4' />
-                                </video>
-                                <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="container">
-                                <div class="slider-caption">
-                                    <h2 data-animate="fadeInUp">Great Performance</h2>
-                                    <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">You'll be
-                                        surprised to see the Final Results of your Creation &amp; would crave for more.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="swiper-slide-bg"
-                                style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
+
                             </div>
                         </div>
                     </div>
-                    <div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
-                    <div class="slider-arrow-right"><i class="icon-angle-right"></i></div>
                 </div>
 
-                <a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i
-                        class="icon-angle-down infinite animated fadeInDown"></i></a>
-
             </div>
-        </section>
-		    <!-- /Slider
-		============================================= -->
+        </section><!-- #Slider End -->
+
 
         <!-- Content
 		============================================= -->
@@ -73,7 +51,7 @@
             <div class="content-wrap m-0 p-0">
 
 
-				<!-- 6 bloques
+                <!-- 6 bloques
 				============================================= -->
                 <div class="row clearfix align-items-stretch ">
 
@@ -127,10 +105,10 @@
                         <h5>ciudades para desarrollar y gestionar sus Centros Comerciales Abiertos (CCA).</h5>
                     </div>
                 </div>
-				<!-- / 6 bloques
+                <!-- / 6 bloques
 				============================================= -->
 
-				<!-- video
+                <!-- video
 				============================================= -->
                 <div class="row m-0 p-0">
                     <div class="video-wrap">
@@ -142,10 +120,10 @@
                         <!-- <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div> -->
                     </div>
                 </div>
-				<!-- /video
+                <!-- /video
 				============================================= -->
 
-				<!-- reportes
+                <!-- reportes
 				============================================= -->
                 <div class="section parallax dark m-0"
                     style="background-image: url('images/services/home-testi-bg.jpg'); padding: 100px 0;"
@@ -175,11 +153,11 @@
                         </div>
                     </div>
                 </div>
-				<!-- /reportes
+                <!-- /reportes
 				============================================= -->
 
-				
-				<!-- opinion
+
+                <!-- opinion
 				============================================= -->
                 <div class="row clearfix align-items-stretch">
 
@@ -218,7 +196,7 @@
                     </div>
 
                 </div>
-				<!-- /opinion
+                <!-- /opinion
 				============================================= -->
 
 
@@ -226,7 +204,7 @@
             </div>
         </section><!-- #content end -->
 
-      <?php include "footer.php" ?>
+        <?php include "footer.php" ?>
 
     </div><!-- #wrapper end -->
 

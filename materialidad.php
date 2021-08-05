@@ -244,13 +244,14 @@
 
     var scatterChartData = {
 
+
         datasets: [{
             label: "Ambiental",
             borderColor: window.chartColors.green,
             backgroundColor: color(window.chartColors.green).alpha(0.2).rgbString(),
             pointRadius: 15,
             pointHoverRadius: 20,
-            
+
             data: [{
                 titulo: "Consumo de energía, eficiencia energética y reducción de emisiones de gases de efecto invernadero (GEI)",
                 x: -2,
@@ -384,8 +385,14 @@
         window.myScatter = Chart.Scatter(ctx, {
             data: scatterChartData,
             options: {
-               
                 responsive: true,
+                title: {
+                    display: true,
+                    position: 'bottom',
+                    fontSize: 18,
+                    fontStyle: '500',
+                    text: 'Relevancia para los consejeros de CAME',
+                },
                 scales: {
                     xAxes: [{
                         gridLines: {
@@ -396,11 +403,11 @@
                         scaleLabel: {
                             display: true,
                             fontSize: 18,
-                            labelString: '[BAJA | MEDIA | ALTA] Relevancia para los consejeros de CAME',
+                            fontColor: "#005ca4",
+                            labelString: 'BAJA  \t\t\t\t| \t\t\t\t MEDIA \t\t\t\t|  \t\t\t\tALTA',
                         },
                         ticks: {
-                        display: false
-                                  
+                            display: false
                         }
                     }],
                     yAxes: [{
@@ -412,11 +419,12 @@
                         },
                         scaleLabel: {
                             display: true,
-                            fontSize: 18,
-                            labelString:  "Relevancia para los grupos de interés",
+                            fontSize: 20,
+                            fontStyle: '500',
+                            labelString: "Relevancia para los grupos de interés",
                         },
                         ticks: {
-                        display: false                        
+                            display: false
                         }
                     }],
 
@@ -425,7 +433,9 @@
                 tooltips: {
                     callbacks: {
                         label: function(tooltipItem, data) {
-                            var titulito = data['datasets'][tooltipItem.datasetIndex]['data'][tooltipItem.index]['titulo'];
+                            var titulito = data['datasets'][tooltipItem.datasetIndex]['data'][
+                                tooltipItem.index
+                            ]['titulo'];
                             console.log(titulito);
                             return titulito;
                         }
