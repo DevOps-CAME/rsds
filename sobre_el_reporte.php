@@ -8,22 +8,15 @@
 
         <?php include "header.php" ?>
 
-        <div class="section parallax mb-0 mt-0" style="padding: 80px 0;background-image: url('images/parallax/1.jpg');"
-            data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center"
+            style="background: #5a90d2; border-bottom: 10px solid #0f3667; min-height: 360px;">
             <div class="container clearfix">
-
-                <div class="row col-mb-50">
-                    <div class="m-4 p-4">
-                        <div class="m-4 p-4">
-                            <div class="m-4 p-4">
-                                <div class="m-4 p-4">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                <div class="arr-izk">
+                    <img src="vid/mundito.gif" height="380px">
                 </div>
-
+                <div>
+                    <h2 class="titulo-seccion" style="color: #fff;">Sobre el reporte</h2>
+                </div>
             </div>
         </div>
 
@@ -31,21 +24,21 @@
         <!-- Carta del presidente
 		============================================= -->
         <section id="carta-presidente">
-            <div class="content-wrap">
+            <div class="content-wrap  pb-0">
                 <div class="container clearfix">
 
                     <div class="row col-mb-50 text-justify">
+                        <h2 class="underline--magical sobre-reporte">Carta del presidente de CAME, Dr. Gerardo Díaz Beltrán</h2>
                         <div class="col-12">
-                            <h2>Carta del presidente de CAME, Dr. Gerardo Díaz Beltrán</h2>
-                            Hace poco más de diez años, la Confederación Argentina de la Mediana Empresa (CAME) —entidad
+                          
+                            
+                            <img src="images/Dr_Gerardo_Diaz_Beltran.jpg" style="width: 13vw;float: left;margin-right: 1rem;margin-bottom: 1rem;" alt="Dr. Gerardo Díaz Beltrán">
+                          <p>  Hace poco más de diez años, la Confederación Argentina de la Mediana Empresa (CAME) —entidad
                             que
                             con gran orgullo presido— se comprometió a impulsar en el entramado pyme un modelo de
                             negocios,
                             poco conocido en nuestro país en aquel entonces, que motive el desarrollo económico con
-                            inclusión social y cuidado del ambiente.
-
-                        </div>
-                        <div class="col-12 mb-0" >
+                            inclusión social y cuidado del ambiente.</p>
                             <p>Una década después y frente a una pandemia que colapsó —en la mayoría de los países— los
                                 sistemas sanitarios primero y los económicos después, y obligó al mundo entero a
                                 acelerar un
@@ -83,7 +76,8 @@
 
 
                             <p>Desde el año 2015, en CAME —a través de nuestro Departamento de Responsabilidad Social y
-                                Desarrollo Sustentable— adoptamos el desafío de informar a nuestros públicos el compromiso
+                                Desarrollo Sustentable— adoptamos el desafío de informar a nuestros públicos el
+                                compromiso
                                 con
                                 el Triple Impacto (crecimiento económico con conciencia social y ambiental) mediante la
                                 publicación anual de este reporte.</p>
@@ -95,12 +89,11 @@
                                 unión, con entrega y vocación, en la construcción colectiva de un empresariado
                                 responsable
                                 por un futuro mejor para todos.</p>
-                        </div>
-                        <div class="col-12 text-center mt-0">
-                            <h4>
+     
+                            <h4 class="text-center">
                                 <strong>Dr. Gerardo Díaz Beltrán</strong></br>
-                                <span>Presidente de la Confederación Argentina de la Mediana Empresa
-                            </h4></span>
+                                <span style="color: #5a90d2;">Presidente de la Confederación Argentina de la Mediana Empresa</span>
+                            </h4>
                         </div>
 
 
@@ -109,59 +102,49 @@
                 </div>
             </div>
 
-
+            <div id="marco-general"></div>
         </section>
         <!-- /Carta del presidente -->
 
         <!-- Marco general
 		============================================= -->
-        <section id="marco-general">
-            <div class="content-wrap">
+        <section class="section">
+            
                 <div class="container clearfix">
 
-                    <div class="row col-mb-50 text-justify">
+                    <div class="row text-justify">
+                        <h2 class="underline--magical sobre-reporte">Marco General</h2>
                         <div class="col-12">
-                            <h2>Marco General</h2>
-                            Este Reporte de Gestión Social y Ambiental comprende acciones realizadas entre enero y
-                            diciembre
-                            de 2020.
-                        </div>
-                    </div>
-                </div>
-
-                <div class="section mb-0">
-                    <div class="container">
-                        <div class="col-12 p-4">
-                            <h3>Metodología</h3>
+                            
+                       <p>     Este Reporte de Gestión Social y Ambiental comprende acciones realizadas entre enero y
+                            diciembre de 2020.</p>
+                       
+                            <h3 style="color: #5a90d2;">Metodología</h3>
                             <p>Para la elaboración de este reporte tuvimos en cuenta los siguientes principios y
                                 estándares:
                             </p>
-                            <div class="row">
-                                <div class="col-3 p-4 m-4" style="background-color: #ccc;">
+                            <div class="row clearfix align-items-stretch">
+                                <div class="col-4 center col-padding" style="background-color: #ccc; border: 1rem solid #F9F9F9;">
                                     <h4>Norma ISO 26000 – RS</h4>
                                     <p>Reconocemos esta norma como la base de orientación de nuestras estrategias de
                                         trabajo.</p>
 
                                 </div>
-                                <div class="col-3 p-4 m-4" style="background-color: #ccc;">
+                                <div class="col-4 center col-padding" style="background-color: #ccc; border: 1rem solid #F9F9F9;">
                                     <h4>Principios del Pacto Global de Naciones Unidas</h4>
                                     <p>Iniciativa a la que estamos adheridos voluntariamente desde 2015.
                                     </p>
 
                                 </div>
-                                <div class="col-3 p-4 m-4" style="background-color: #ccc;">
+                                <div class="col-4 center col-padding" style="background-color: #ccc; border: 1rem solid #F9F9F9;">
                                     <h4>Objetivos de Desarrollo Sostenible (ODS) de Naciones Unidas</h4>
                                     <p>Nos comprometimos voluntariamente con dichos objetivos en marzo de 2017. Desde
                                         entonces los integramos a nuestra estrategia de Responsabilidad Social.</p>
 
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="content-wrap">
-                    <div class="container clearfix">
-                        <div class="col-12 mt-4">
+                        
+                 
                             <p>El presente balance es de carácter <strong>voluntario</strong> y no cuenta con
                                 verificación
                                 externa. </p>
@@ -173,26 +156,21 @@
                                 promoviendo así una <strong>comunicación abierta y transparente.</strong>
                             </p>
                         </div>
-                    </div>
-
-
-
-                </div>
-
-            </div>
-
+                    </div></div>
+                    <div id="nuestros-compromisos"></div>
         </section>
         <!-- /Marco general -->
-
+  
         <!-- Nuestros compromisos
 		============================================= -->
-        <section id="nuestros-compromisos">
-            <div class="content-wrap">
+        <section>
+            <div class="content-wrap pt-0">
                 <div class="container clearfix">
 
                     <div class="row col-mb-50 text-justify">
+                                                    <h2 class="underline--magical sobre-reporte">Nuestros compromisos</h2>
+
                         <div class="col-12">
-                            <h2>Nuestros compromisos</h2>
                             <p>Por <strong>sexto año consecutivo</strong> informamos nuestro compromiso con la
                                 <strong>agenda internacional,</strong> a través de acciones e indicadores concretos,
                                 identificando desafíos a futuro y alineando toda esta tarea a los <strong>Objetivos de
@@ -201,9 +179,6 @@
                             </p>
 
 
-                        </div>
-
-                        <div class="col-12">
                             <p>Para este Balance de Gestión Social y Ambiental, hemos identificado los siguientes ODS:
                             </p>
                             <div class="col-12 ml-1">
@@ -266,20 +241,20 @@
 
         <?php include "footer.php" ?>
 
-</div><!-- #wrapper end -->
+    </div><!-- #wrapper end -->
 
-<!-- Go To Top
+    <!-- Go To Top
 ============================================= -->
-<div id="gotoTop" class="icon-angle-up"></div>
+    <div id="gotoTop" class="icon-angle-up"></div>
 
-<!-- JavaScripts
+    <!-- JavaScripts
 ============================================= -->
-<script src="js/jquery.js"></script>
-<script src="js/plugins.min.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/plugins.min.js"></script>
 
-<!-- Footer Scripts
+    <!-- Footer Scripts
 ============================================= -->
-<script src="js/functions.js"></script>
+    <script src="js/functions.js"></script>
 
 </body>
 

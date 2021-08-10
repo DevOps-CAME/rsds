@@ -17,7 +17,7 @@
                     class="slider-img">
                 <img src="images/back-izk.png" style="width: 20vw; position: fixed; left: 0px; bottom: 0px;" alt=""
                     class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;">
-                <img src="images/RSDS.png" style="width: 15vw; position: fixed; left: 1vw; bottom: 1vh;" alt=""
+                <img src="images/CAME.png" style="width: 13vw; position: fixed; left: 1vw; bottom: 3vh;" alt=""
                     class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;">
 
                 <div class="vertical-middle parallax" data-start="margin-top: 0px;" data-400="margin-top: 200px;">
@@ -31,7 +31,9 @@
                                     color: #708190;"> DESDE 1956 JUNTO A</br> LAS PYMES ARGENTINAS </p>
 
                                     <h1 style="font-weight: 900; font-size: 6rem; line-height: 6rem; ">
-                                        <span style="color: #99d2e3;">2020</span><span style="position: absolute; height: 1vh; border-bottom: 14px solid #99d2e3;top: 14vh; width: 290px; margin-left: 0.5vw;">&nbsp;</span></br>Reporte de Gestión Social y Ambiental
+                                        <span style="color: #99d2e3;">2020</span><span
+                                            style="position: absolute; height: 1vh; border-bottom: 14px solid #99d2e3;top: 14vh; width: 290px; margin-left: 0.5vw;">&nbsp;</span></br>Reporte
+                                        de Gestión Social y Ambiental
                                     </h1>
 
                                 </div>
@@ -55,54 +57,51 @@
 				============================================= -->
                 <div class="row clearfix align-items-stretch ">
 
-                    <div class="col-lg-2 col-md-4 dark center col-padding" style="background-color: #515875;">
-                        <i class="i-plain i-xlarge mx-auto icon-line2-directions"></i>
-                        <h5>Recuperamos más de</h5>
-                        <div class="counter counter-lined"><span data-from="10" data-to="1700"
-                                data-refresh-interval="50" data-speed="2000"></span> </div>
-                        <h5>kilos de materiales reciclados</h5>
+                    <div class="col-lg-2 col-md-4 dark center  p-4" style="background-color: #576F9E;">
+                        <div class="align-items-center">
+                            <p class="bloque-titulo">Recuperamos más de</p>
+                            <div class="counter counter-lined"><span data-from="10" data-to="1700"
+                                    data-refresh-interval="13" data-speed="3000"></span> </div>
+                            <p class="bloque-bajada">kilos de materiales reciclados</p>
+                        </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-4 dark center col-padding" style="background-color: #576F9E;">
-                        <i class="i-plain i-xlarge mx-auto icon-line2-graph"></i>
-                        <h5>Capacitamos a más de</h5>
+                    <div class="col-lg-2 col-md-4 dark center  p-4" style="background-color: #627FA9;">
+                        <p class="bloque-titulo">Capacitamos</br>a más de</p>
                         <div class="counter counter-lined"><span data-from="1000" data-to="245000"
-                                data-refresh-interval="100" data-speed="2500"></span></div>
-                        <h5>personas en todo el país</h5>
+                                data-refresh-interval="150" data-speed="3000"></span></div>
+                        <p class="bloque-bajada">personas en todo el país</p>
                     </div>
 
-                    <div class="col-lg-2 col-md-4 dark center col-padding" style="background-color: #6697B9;">
-                        <i class="i-plain i-xlarge mx-auto icon-line2-layers"></i>
-                        <h5>Superamos los</h5>
-                        <div class="counter counter-lined"><span data-from="10" data-to="1200"
-                                data-refresh-interval="25" data-speed="3500"></span></div>
-                        <h5>beneficiarios en nuestras campañas solidarias</h5>
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 dark center col-padding" style="background-color: #88C3D8;">
-                        <i class="i-plain i-xlarge mx-auto icon-line2-clock"></i>
-                        <h5>Atendimos</h5>
-                        <div class="counter counter-lined"><span data-from="10" data-to="2897"
-                                data-refresh-interval="30" data-speed="2700"></span></div>
-                        <h5>consultas de asesoramiento en financiamiento de entidades, pymes y emprendedores de
-                            Argentina
-                        </h5>
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 dark center col-padding" style="background-color: #b6e4f5;">
-                        <i class="i-plain i-xlarge mx-auto icon-line2-clock"></i>
-                        <h5>Brindamos más de</h5>
-                        <div class="counter counter-lined"><span data-from="10" data-to="2769"
-                                data-refresh-interval="45" data-speed="3000"></span></div>
-                        <h5>horas de capacitación a nuestros colaboradores</h5>
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 dark center col-padding" style="background-color: #b6e4f5;">
-                        <i class="i-plain i-xlarge mx-auto icon-line2-clock"></i>
-                        <h5>Proporcionamos asistencia técnica en</h5>
-                        <div class="counter counter-lined"><span data-from="1" data-to="69" data-refresh-interval="50"
+                    <div class="col-lg-2 col-md-4 dark center  p-4" style="background-color: #6C8FB4;">
+                        <p class="bloque-titulo">Superamos los</p>
+                        <div class="counter counter-lined"><span data-from="10" data-to="1200" data-refresh-interval="8"
                                 data-speed="3000"></span></div>
-                        <h5>ciudades para desarrollar y gestionar sus Centros Comerciales Abiertos (CCA).</h5>
+                        <p class="bloque-bajada">beneficiarios en nuestras campañas solidarias</p>
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 dark center  p-4" style="background-color: #779EBF;">
+                        <p class="bloque-titulo">Atendimos</p>
+                        <div class="counter counter-lined"><span data-from="10" data-to="2897"
+                                data-refresh-interval="13" data-speed="3000"></span></div>
+                        <p class="bloque-bajada">consultas de asesoramiento en financiamiento de entidades, pymes y
+                            emprendedores de Argentina
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 dark center  p-4" style="background-color: #81AECA;">
+                        <p class="bloque-titulo">Brindamos</br> más de</p>
+                        <div class="counter counter-lined"><span data-from="10" data-to="2769"
+                                data-refresh-interval="25" data-speed="3000"></span></div>
+                        <p class="bloque-bajada">horas de capacitación a nuestros colaboradores</p>
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 dark center  p-4" style="background-color: #8CBED5;">
+                        <p class="bloque-titulo">Proporcionamos asistencia técnica en</p>
+                        <div class="counter counter-lined"><span data-from="1" data-to="69" data-refresh-interval="5"
+                                data-speed="3000"></span></div>
+                        <p class="bloque-bajada">ciudades para desarrollar y gestionar sus Centros Comerciales Abiertos
+                            (CCA)</p>
                     </div>
                 </div>
                 <!-- / 6 bloques
@@ -110,46 +109,51 @@
 
                 <!-- video
 				============================================= -->
-                <div class="row m-0 p-0">
-                    <div class="video-wrap">
-                        <video id="slide-video" poster="images/videos/explore-poster.jpg" preload="auto" loop autoplay
-                            muted>
-                            <source src='images/videos/explore.webm' type='video/webm' />
-                            <source src='images/videos/explore.mp4' type='video/mp4' />
+                <div class="d-flex justify-content-center">
+                    <div>
+                        <video poster="vid/rsds.png" preload="auto" loop autoplay muted controls
+                            style="height: 90vh; max-width: 100vw;    outline: 1px solid #fff; outline-offset: -1px;">
+                            <source src='vid/rsds.webm' type='video/webm' />
+                            <source src='vid/rsds.mp4' type='video/mp4' />
                         </video>
                         <!-- <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div> -->
                     </div>
                 </div>
+
                 <!-- /video
 				============================================= -->
 
                 <!-- reportes
 				============================================= -->
-                <div class="section parallax dark m-0"
-                    style="background-image: url('images/services/home-testi-bg.jpg'); padding: 100px 0;"
-                    data-bottom-top="background-position:0px 300px;" data-top-bottom="background-position:0px -300px;">
+                <div class="section m-0">
 
                     <div class="heading-block center">
                         <h3>Conocé nuestros últimos reportes:</h3>
                     </div>
-                    <div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-items-xs="2"
-                        data-items-sm="3" data-items-lg="4" data-items-xl="4">
+                    <div class="row ml-5 mr-5 pl-5 pr-5">
+                        <div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-items-xs="2"
+                            data-items-sm="3" data-items-lg="4" data-items-xl="4">
 
-                        <div class="oc-item">
-                            <a target="_blank" href="http://redcame.org.ar/revista/ampliada/69"><img
-                                    src="images/tapas/2019.png" alt="Balances de gestión social y ambiental - 2019"></a>
-                        </div>
-                        <div class="oc-item">
-                            <a target="_blank" href="http://redcame.org.ar/revista/ampliada/71"><img
-                                    src="images/tapas/2018.png" alt="Balances de gestión social y ambiental - 2018"></a>
-                        </div>
-                        <div class="oc-item">
-                            <a target="_blank" href="http://redcame.org.ar/revista/ampliada/70"><img
-                                    src="images/tapas/2017.png" alt="Balances de gestión social y ambiental - 2017"></a>
-                        </div>
-                        <div class="oc-item">
-                            <a target="_blank" href="http://redcame.org.ar/revista/ampliada/72"><img
-                                    src="images/tapas/2016.png" alt="Balances de gestión social y ambiental - 2016"></a>
+                            <div class="oc-item">
+                                <a target="_blank" href="http://redcame.org.ar/revista/ampliada/69"><img
+                                        src="images/tapas/2019.png"
+                                        alt="Balances de gestión social y ambiental - 2019"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a target="_blank" href="http://redcame.org.ar/revista/ampliada/71"><img
+                                        src="images/tapas/2018.png"
+                                        alt="Balances de gestión social y ambiental - 2018"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a target="_blank" href="http://redcame.org.ar/revista/ampliada/70"><img
+                                        src="images/tapas/2017.png"
+                                        alt="Balances de gestión social y ambiental - 2017"></a>
+                            </div>
+                            <div class="oc-item">
+                                <a target="_blank" href="http://redcame.org.ar/revista/ampliada/72"><img
+                                        src="images/tapas/2016.png"
+                                        alt="Balances de gestión social y ambiental - 2016"></a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -177,19 +181,24 @@
 
 
                         <p>
-                            <bold>Coordinación General</bold></br>
+                            <strong>Coordinación General</strong></br>
                             Departamento de Responsabilidad Social y Desarrollo Sustentable</br>
-                            Confederación Argentina de la Mediana Empresa</br>
-
-                            <bold>Coordinación Técnica</bold></br>
+                            Confederación Argentina de la Mediana Empresa
+                        </p>
+                        <p>
+                            <strong>Coordinación Técnica</strong></br>
                             Claudia Núñez Sánchez</br>
                             Proyecto Sustentable</br>
+                        </p>
 
-                            <bold>Corrección: </bold></br>
+                        <p>
+                            <strong>Corrección: </strong></br>
                             Departamento de Comunicación</br>
                             Confederación Argentina de la Mediana Empresa</br>
+                        </p>
 
-                            <bold>Producción y Diseño: </bold></br>
+                        <p>
+                            <strong>Producción y Diseño: </strong></br>
                             Departamento de Multimedia</br>
                             Confederación Argentina de la Mediana Empresa</br>
                         </p>
