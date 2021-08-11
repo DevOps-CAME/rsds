@@ -8,24 +8,17 @@
 
         <?php include "header.php" ?>
 
-        <div class="section parallax mb-0 mt-0" style="padding: 80px 0;background-image: url('images/parallax/1.jpg');"
-            data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center medio-ambiente portada">
             <div class="container clearfix">
-
-                <div class="row col-mb-50">
-                    <div class="m-4 p-4">
-                        <div class="m-4 p-4">
-                            <div class="m-4 p-4">
-                                <div class="m-4 p-4">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                <div class="arr-izk">
+                    <img src="vid/mundito.gif" height="380px">
                 </div>
-
+                <div>
+                    <h2 class="titulo-seccion" style="color: #fff;">Medio Ambiente</h2>
+                </div>
             </div>
         </div>
+
 
 
         <!-- Estándares Laborales
@@ -33,7 +26,7 @@
         <section id="estandares-laborales">
             <div class="content-wrap">
                 <div class="container clearfix">
-                    <h2>Medio Ambiente</h2>
+                    
 
                     <div class="col-12 ml-1">
                         <div class="row">
@@ -73,8 +66,8 @@
                         </section>
                         <section id="industria">
                             <div class="col-12 mt-4">
-                                <h2>Industria</h2>
-                                <h3>Comisiones</h3>
+                                <h2 class="underline--magical medio-ambiente">Industria</h2>
+                                <h3 class="subtitulo--magical medio-ambiente">Comisiones</h3>
                                 <p>La Comisión de Ambiente del Sector Industrial mantuvo una audiencia con el Ministerio
                                     de Ambiente y Desarrollo Sostenible mediante un encuentro virtual, en el cual se
                                     abordaron inquietudes vinculadas a los residuos industriales, entre otros temas
@@ -82,7 +75,7 @@
                                     ###(foto de la Comisión) </p>
 
 
-                                <h3>Convenio RED Parques</h3>
+                                <h3 class="subtitulo--magical medio-ambiente">Convenio RED Parques</h3>
 
                                 <p>Con esta reconocida institución de la provincia de Buenos Aires, firmamos un convenio
                                     que tiene, entre otros, los siguientes objetivos: </p>
@@ -108,7 +101,7 @@
                             </div>
 
                             <div class="col-12 mt-4">
-                                <h3>Programa Desarrollo de Parques Industriales</h3>
+                                <h3 class="subtitulo--magical medio-ambiente">Programa Desarrollo de Parques Industriales</h3>
                                 <strong>Creado mediante el Decreto 716/2020</strong>
                                 <p>
                                     Llevamos adelante reuniones con los Parques Industriales adheridos al programa para
@@ -120,8 +113,8 @@
 
                         <section id="comercio">
                             <div class="col-12 mt-4">
-                                <h2>Comercio</h2>
-                                <h3>Centros Comerciales Abiertos</h3>
+                                <h2 class="underline--magical medio-ambiente">Comercio</h2>
+                                <h3 class="subtitulo--magical medio-ambiente">Centros Comerciales Abiertos</h3>
 
                                 <p>A través de nuestro programa de Centros Comerciales Abiertos (CCA) fomentamos, entre
                                     otras cosas, la <strong>presencia de espacios verdes en las ciudades,</strong> lo
@@ -157,9 +150,9 @@
 
                         <section id="economias-regionales">
                             <div class="col-12 mt-4">
-                                <h2>Economías Regionales
+                                <h2 class="underline--magical medio-ambiente">Economías Regionales
                                 </h2>
-                                <h3>Feria Popular de Frutas y Verduras </h3>
+                                <h3 class="subtitulo--magical medio-ambiente">Feria Popular de Frutas y Verduras </h3>
                                 <p><strong>Sociedad de Quinteros de Santa Fe</strong></p>
                                 <p><strong>En 2020 continuamos acompañando a esta iniciativa que</strong> —a través de
                                     la eliminación de intermediarios—, reduce brechas entre el productor y consumidor.
@@ -168,7 +161,7 @@
 
                                 <p>###(Foto Feria)</p>
 
-                                <h3>Abastecimiento de Alimentos</h3>
+                                <h3 class="subtitulo--magical medio-ambiente">Abastecimiento de Alimentos</h3>
                                 <p><strong>Permiso único de circulación</strong></p>
                                 <p>Al tener que satisfacer la demanda y asegurar el normal abastecimiento de alimentos,
                                     imprescindibles para la población, entidades del sector agroalimentario adheridas a
@@ -189,7 +182,7 @@
                                 </p>
 
 
-                                <h3>INTA + CAME Joven
+                                <h3 class="subtitulo--magical medio-ambiente">INTA + CAME Joven
                                 </h3>
 
                                 <p>Organizamos un ciclo de webinarios sobre “Hidroponía y otros cultivos sin suelo”, que
@@ -199,7 +192,7 @@
                                 </p>
                                 <p>###(Foto hidroponia)</p>
 
-                                <h3>Sector Agroalimentario y Covid-19</h3>
+                                <h3 class="subtitulo--magical medio-ambiente">Sector Agroalimentario y Covid-19</h3>
                                 <p><strong>Acciones Solidarias</strong></p>
                                 <p>A través de una carta enviada al subsecretario de Relaciones con Provincias, Emiliano
                                     Estrada, los productores pusieron a disposición su maquinaria y recursos humanos
@@ -214,7 +207,7 @@
                                 <p>###(Videos Regionales – Acciones solidarias)</p>
 
 
-                                <h3>Comisión Nacional de Trabajo Agrario y Comisión Nacional de Emergencias y Desastre
+                                <h3 class="subtitulo--magical medio-ambiente">Comisión Nacional de Trabajo Agrario y Comisión Nacional de Emergencias y Desastre
                                     Agropecuario
                                 </h3>
                                 <p>En calidad de miembros permanentes, participamos de las reuniones de la Comisión
@@ -227,7 +220,7 @@
                                 <p>###(Videos Regionales – Acciones solidarias)</p>
 
 
-                                <h3>Índice de Precios en Origen y Destino</h3>
+                                <h3 class="subtitulo--magical medio-ambiente">Índice de Precios en Origen y Destino</h3>
                                 <p>Seguimos elaborando y difundiendo mensualmente el <strong>Índice de Precios en Origen
                                         y Destino</strong> (IPOD), a fin de visibilizar la falta de transparencia en las
                                     cadenas de valor y mostrar cuánto aumenta el precio de un producto del campo a la
@@ -244,7 +237,7 @@
 
                         <section id="turismo">
                             <div class="col-12 mt-4">
-                                <h2>Turismo</h2>
+                                <h2 class="underline--magical medio-ambiente">Turismo</h2>
                                 <p>
                                     En el marco del <strong>4° Foro Nacional de Turismo Rural y Naturaleza:</strong>
                                     "Turismo de proximidad y naturaleza como eje de reactivación de las Economías
@@ -261,7 +254,7 @@
 
                         <section id="jovenes">
                             <div class="col-12 mt-4">
-                                <h2>Jóvenes</h2>
+                                <h2 class="underline--magical medio-ambiente">Jóvenes</h2>
                                 <p>
                                     A través de FECOBA Joven (Federación de Comercio e Industria de la Ciudad Autónoma
                                     de Buenos Aires) se formalizó una alianza con la <strong>Asociación Civil Basura
@@ -277,10 +270,10 @@
 
                         <section id="rsds">
                             <div class="col-12 mt-4">
-                                <h2>Responsabilidad Social y Desarrollo Sustentable
+                                <h2 class="underline--magical medio-ambiente">Responsabilidad Social y Desarrollo Sustentable
                                 </h2>
 
-                                <h3>Secretaría de Energía de la Nación – 5ª Red de Aprendizaje en Sistemas de Gestión
+                                <h3 class="subtitulo--magical medio-ambiente">Secretaría de Energía de la Nación – 5ª Red de Aprendizaje en Sistemas de Gestión
                                     de la Energía</h3>
                                 <p>
                                     Seguimos trabajando en nuestra 5ª Red de Aprendizaje en Eficiencia Energética
@@ -305,7 +298,7 @@
 
                         <section id="testimonios">
                             <div class="col-12 mt-4">
-                                <h2>Testimonios</h2>
+                                <h2 class="underline--magical medio-ambiente">Testimonios</h2>
                                 <p>“El respaldo institucional de CAME a través de su Departamento de Responsabilidad
                                     Social y Desarrollo Sustentable junto con la Confederación Económica de
                                     Misiones (CEM) hicieron posible el desarrollo de la Red en Gestión de la Energía.
@@ -345,7 +338,7 @@
 
                         <section id="premios-latinoamerica">
                             <div class="col-12 mt-4">
-                                <h2>Premios Latinoamérica Verde
+                                <h2 class="underline--magical medio-ambiente">Premios Latinoamérica Verde
                                 </h2>
                                 <p>Por cuarto año consecutivo, nos unimos a los Premios Latinoamérica Verde (PLV) -
                                     certamen que exhibe, conecta y premia a los 500 mejores proyectos sociales y
@@ -369,7 +362,7 @@
 
                         <section id="programa-oficina">
                             <div class="col-12 mt-4">
-                                <h2>Programa Oficina Verde</h2>
+                                <h2 class="underline--magical medio-ambiente">Programa Oficina Verde</h2>
                                 <p> En este año tan particular, en el que el trabajo se trasladó casi por completo a la
                                     virtualidad, continuamos con nuestro programa interno “Oficina Verde”. Este tiene
                                     por objetivo promover hábitos sustentables puertas adentro de la entidad para seguir
@@ -397,7 +390,7 @@
 
                         <section id="ODS">
                             <div class="col-12 mt-4">
-                                <h3>Estas acciones contribuyen al cumplimiento de los ODS 2, 9, 11 y 12:
+                                <h3 class="subtitulo--magical medio-ambiente">Estas acciones contribuyen al cumplimiento de los ODS 2, 9, 11 y 12:
 
                                 </h3>
                                 <table class="table table-hover">

@@ -8,8 +8,7 @@
 
         <?php include "header.php" ?>
 
-        <div class="section parallax mb-0 mt-0 d-flex align-items-center"
-            style="background: #1d998a; border-bottom: 10px solid #10554d; min-height: 360px;">
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center materialidad portada">
             <div class="container clearfix">
                 <div class="arr-izk">
                     <img src="vid/mundito.gif" height="380px">
@@ -52,7 +51,7 @@
 
                         </div>
                         <div class="col-12 mb-0">
-                            <h3 style="color: #1d998a;">Análisis de Materialidad </h3>
+                            <h3 class="subtitulo--magical materialidad">Análisis de Materialidad </h3>
 
                             <p>Los aspectos materiales son asuntos relevantes, dado que estos pueden representar riesgos
                                 o
@@ -83,7 +82,7 @@
 
                         <div class="col-12 mb-0 mt-0 pb-0 pt-0">
 
-                            <h3 style="color: #1d998a;">Los aspectos identificados y priorizados en la encuesta son:
+                            <h3 class="subtitulo--magical materialidad">Los aspectos identificados y priorizados en la encuesta son:
                             </h3>
                         </div>
                         <div class="col-3 pb-0">
@@ -178,7 +177,7 @@
                                 </strong>
                             </p>
                     
-                            <h3 style="color: #1d998a;">Matriz de Materialidad </h3>
+                            <h3 class="subtitulo--magical materialidad">Matriz de Materialidad </h3>
                             <div class="bottommargin mx-auto" style="max-width: 1080px; min-height: 350px;">
                                 <canvas id="chart-0"></canvas>
                             </div>

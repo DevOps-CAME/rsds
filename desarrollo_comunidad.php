@@ -8,24 +8,17 @@
 
         <?php include "header.php" ?>
 
-        <div class="section parallax mb-0 mt-0" style="padding: 80px 0;background-image: url('images/parallax/1.jpg');"
-            data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center desarrollo-comunidad portada">
             <div class="container clearfix">
-
-                <div class="row col-mb-50">
-                    <div class="m-4 p-4">
-                        <div class="m-4 p-4">
-                            <div class="m-4 p-4">
-                                <div class="m-4 p-4">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                <div class="arr-izk">
+                    <img src="vid/mundito.gif" height="380px">
                 </div>
-
+                <div>
+                    <h2 class="titulo-seccion" style="color: #fff;">Desarrollo de la Comunidad</h2>
+                </div>
             </div>
         </div>
+
 
 
         <!-- Desarrollo de la Comunidad
@@ -33,7 +26,7 @@
         <section id="desarrollo-comunidad">
             <div class="content-wrap">
                 <div class="container clearfix">
-                    <h2>Desarrollo de la Comunidad</h2>
+                    
 
                     <div class="col-12 ml-1">
                         <div class="row">
@@ -73,7 +66,7 @@
 
                         <section id="certificacion-iso">
                             <div class="col-12 mt-4">
-                                <h2>Capacitación</h2>
+                                <h2 class="underline--magical desarrollo-comunidad">Capacitación</h2>
 
                                 <p>A través de nuestra Secretaría de Capacitación llevamos adelante la siguiente oferta
                                     académica: </p>
@@ -132,7 +125,7 @@
                             </div>
 
                             <div class="col-12 mt-4">
-                                <h3>Modalidad online</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Modalidad online</h3>
                                 <strong>Plataforma e-learning CAME Educativa</strong>
                                 <p>
                                     Durante 2020 brindamos <strong>85 cursos online</strong> de un mes de duración, los
@@ -155,7 +148,7 @@
                                     </div>
                                 </div>
 
-                                <h3>Plataforma Zoom CAME Educativa
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Plataforma Zoom CAME Educativa
                                 </h3>
                                 <p>
                                     En 2020, diseñamos una nueva oferta de <strong>53 seminarios web</strong> para
@@ -190,7 +183,7 @@
                                             desafiante y retador. </p>
                                     </div>
                                 </div>
-                                <h3>Escuela de Negocios</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Escuela de Negocios</h3>
                                 <p><strong>Diplomaturas:</strong> Implementamos cinco diplomaturas a distancia, con
                                     certificación universitaria:
                                 </p>
@@ -212,8 +205,8 @@
 
                         <section id="mujeres-empresarias">
                             <div class="col-12 mt-4">
-                                <h2>Mujeres Empresarias</h2>
-                                <h3>Relevamientos</h3>
+                                <h2 class="underline--magical desarrollo-comunidad">Mujeres Empresarias</h2>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Relevamientos</h3>
 
                                 <p>Relevamos el impacto que las medidas derivadas del <strong> tuvieron en las
                                         comerciantes y empresarias de la Argentina.</strong> Los resultados fueron
@@ -277,14 +270,14 @@
                                     desconocimiento de temas financieros, lo que derivó en acciones específicas. Por
                                     otro lado, identificamos que el 58 % de las encuestadas son Monotributistas, 23 %
                                     Autónomas y 17 % personas jurídicas.</p>
-                                <h3>Financiamiento </h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Financiamiento </h3>
                                 <p>Realizamos mesas de trabajo con funcionarios y representantes del Banco Nación, BICE
                                     y GARANTIZAR, logrando beneficios en las tasas y gastos en las líneas de crédito
                                     para <strong> pymes lideradas por mujeres,</strong> sumando además capacitación en
                                     educación financiera, a través de seminarios y talleres, y realizando aportes
                                     técnicos para impulsar el acceso al financiamiento de las mujeres empresarias.
                                 </p>
-                                <h3>Articulación Público-Privada</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Articulación Público-Privada</h3>
                                 <p>
                                 <h4> Principios para el Empoderamiento de las Mujeres (WEPs)</h4>
                                 En 2020, <strong>nos convertimos en la primera entidad gremial empresaria del país
@@ -311,7 +304,7 @@
                                 recomendaciones OIT, violencia laboral, así como también en la Subcomisión de
                                 Políticas de Formación y Empleo.</p>
 
-                                <h3>Women Economic Forum</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Women Economic Forum</h3>
                                 <p> Fuimos protagonistas del Woman Economic Forum, evento de escala internacional, en el
                                     que se reflexionó sobre: <strong>desarrollo económico de la mujer, violencia por
                                         motivos de género, liderazgo y participación político-ciudadana, salud, turismo
@@ -325,7 +318,7 @@
                                     público-privada y capacitaciones, entre otros temas.
                                     (###Flyer evento)</p>
 
-                                <h3>Convenios firmados:</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Convenios firmados:</h3>
                                 <ul>
                                     <li><strong>Instituto Argentino de la Empresa Familiar (IADEF)</strong> lograr una
                                         mayor difusión de las acciones y actividades académicas y de investigación para
@@ -348,7 +341,7 @@
 
                         <section id="comercio">
                             <div class="col-12 mt-4">
-                                <h2>Comercio</h2>
+                                <h2 class="underline--magical desarrollo-comunidad">Comercio</h2>
 
 
                                 <p>Con el objetivo de proporcionar conocimientos, exponer experiencias e identificar
@@ -371,7 +364,7 @@
 
                         <section id="comercio">
                             <div class="col-12 mt-4">
-                                <h2>Rondas de Negocios
+                                <h2 class="underline--magical desarrollo-comunidad">Rondas de Negocios
                                 </h2>
 
 
@@ -396,8 +389,8 @@
 
                         <section id="administracion-presupuestos">
                             <div class="col-12 mt-4">
-                                <h2>Administración de presupuestos</h2>
-                                <h3>Asistencia a entidades</h3>
+                                <h2 class="underline--magical desarrollo-comunidad">Administración de presupuestos</h2>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Asistencia a entidades</h3>
                                 <p>
                                     Durante 2020, brindamos asistencia a 267 entidades por un total de <strong>$
                                         352.405.220,</strong> repartidos en:
@@ -416,8 +409,8 @@
 
                         <section id="administracion-presupuestos">
                             <div class="col-12 mt-4">
-                                <h2>Jóvenes</h2>
-                                <h3>I Congreso Parlamentario de los ODS</h3>
+                                <h2 class="underline--magical desarrollo-comunidad">Jóvenes</h2>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">I Congreso Parlamentario de los ODS</h3>
                                 <p>
                                     FECOBA Joven participó en el Congreso Latinoamericano de Parlamentarios por los ODS,
                                     donde se abordó en detalle la Agenda 2030 de la ONU, con el objetivo de brindar más
@@ -425,7 +418,7 @@
                                     paradigma del triple impacto.
 
                                 </p>
-                                <h3>Reunión con el Subsecretario Pyme del GCBA</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Reunión con el Subsecretario Pyme del GCBA</h3>
                                 <p>
                                     Alejandro Kontos y Diego Nunes, en representación de FECOBA Joven, participaron en
                                     una audiencia con el Subsecretario Pyme del Gobierno de la Ciudad de Buenos Aires,
@@ -435,7 +428,7 @@
                                         sustentabilidad, nuevas tecnologías y el cambio de paradigmas que impulsó la
                                         crisis económica y sanitaria,</strong> consecuencia de la pandemia.
                                 </p>
-                                <h3>Fundación Gen E: Directorio Sustentable</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Fundación Gen E: Directorio Sustentable</h3>
                                 <p>
                                     La Fundación Gen E ha desarrollado un Directorio de Empresarios Sustentables. FECOBA
                                     Joven participó en su lanzamiento y llegó a un acuerdo con la Fundación para
@@ -449,7 +442,7 @@
 
                         <section id="financiamiento">
                             <div class="col-12 mt-4">
-                                <h2>Financiamiento y Competitividad Pyme</h2>
+                                <h2 class="underline--magical desarrollo-comunidad">Financiamiento y Competitividad Pyme</h2>
 
                                 <p>
                                     En este año tan particular, fortalecimos el asesoramiento técnico y acompañamiento
@@ -467,7 +460,7 @@
                                     emergencia; Créditos a tasa 0% para monotributistas y autónomos; Línea de
                                     financiamiento a tasa 24% implementada por BCRA. </p>
 
-                                <h3> Cifras del Departamento:</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad"> Cifras del Departamento:</h3>
                                 <p>
                                 <ul>
                                     <li>Desarrollamos 23 talleres y encuentros interactivos temáticos</li>
@@ -487,8 +480,8 @@
 
                         <section id="rsds">
                             <div class="col-12 mt-4">
-                                <h2>Responsabilidad Social y Desarrollo Sustentable</h2>
-                                <h3>Alianzas con actores claves</h3>
+                                <h2 class="underline--magical desarrollo-comunidad">Responsabilidad Social y Desarrollo Sustentable</h2>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Alianzas con actores claves</h3>
                                 <p>
                                     <strong>Ciclo de Charlas - Empresas Sustentables: las pioneras del
                                         futuro</strong></br></br>
@@ -509,7 +502,7 @@
 
                                 </p>
 
-                                <h3>Charlas de Triple Impacto</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Charlas de Triple Impacto</h3>
 
                                 <p>En 2020, fuimos invitados a participar en diversas charlas nacionales e
                                     internacionales, convocadas por actores del sector público y privado, con el
@@ -540,9 +533,9 @@
 
                         <section id="acciones-solidarias">
                             <div class="col-12 mt-4">
-                                <h2>Acciones Solidarias</h2>
+                                <h2 class="underline--magical desarrollo-comunidad">Acciones Solidarias</h2>
 
-                                <h3>Copa Garrahan</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Copa Garrahan</h3>
                                 <p>
                                     Durante el Aislamiento Social, Preventivo y Obligatorio, continuamos apostando a las
                                     acciones solidarias a través de iniciativas a distancia, como fue el primer torneo
@@ -555,10 +548,10 @@
 
                         <section id="responsabilidad-interna">
                             <div class="col-12 mt-4">
-                                <h2>Responsabilidad Social Interna</h2>
+                                <h2 class="underline--magical desarrollo-comunidad">Responsabilidad Social Interna</h2>
 
 
-                                <h3>Mochi solidaria</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Mochi solidaria</h3>
 
                                 <p> Convencidos de que la educación es uno de los pilares fundamentales para lograr la
                                     igualdad y la inclusión social, acompañamos <strong>-por cuarto año
@@ -580,7 +573,7 @@
 
                                 (###Carrusel Campaña Federal)
 
-                                <h3>Día de la Mujer</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Día de la Mujer</h3>
 
                                 <p>Para conmemorar el Día Internacional de la Mujer, viramos el foco de trabajo y
                                     realizamos un encuentro con todos nuestros colaboradores, en el que repasamos la
@@ -595,7 +588,7 @@
 
                         <section id="mesa-agrolimentaria">
                             <div class="col-12 mt-4">
-                                <h2>Mesa Agroalimentaria</h2>
+                                <h2 class="underline--magical desarrollo-comunidad">Mesa Agroalimentaria</h2>
 
                                 <p>
                                     Realizamos una serie de encuentros virtuales en los cuales asesoramos y acercamos a
@@ -616,7 +609,7 @@
 
                         <section id="came-sustentable">
                             <div class="col-12 mt-4">
-                                <h2>Sello CAME Sustentable</h2>
+                                <h2 class="underline--magical desarrollo-comunidad">Sello CAME Sustentable</h2>
 
 
                                 <p>(###Foto logo)</p>
@@ -651,7 +644,7 @@
                                 <p> (###Fotos sello)</p>
                                 <div class="row justify-content-center">
                                     <div class="resaltado col-8 m-4">
-                                        <h3> Alianzas institucionales </h3>
+                                        <h3 class="subtitulo--magical desarrollo-comunidad"> Alianzas institucionales </h3>
 
                                         <p> En el marco de nuestro sello fortalecimos las alianzas con el Consejo de los
                                             Profesionales del Agro, Alimentos y Agroindustria (CPIA), y la Cámara
@@ -671,7 +664,7 @@
 
                         <section id="ODS">
                             <div class="col-12 mt-4">
-                                <h3>Estas acciones contribuyen al cumplimiento de los ODS 1, 2, 4, 5, 12 y 17:</h3>
+                                <h3 class="subtitulo--magical desarrollo-comunidad">Estas acciones contribuyen al cumplimiento de los ODS 1, 2, 4, 5, 12 y 17:</h3>
                                 <div class="col-12 ml-1">
                                     <div class="row">
                                         <div class="col-1 p-0"><a

@@ -7,25 +7,19 @@
     <div id="wrapper" class="clearfix">
 
         <?php include "header.php" ?>
-
-        <div class="section parallax mb-0 mt-0" style="padding: 80px 0;background-image: url('images/parallax/1.jpg');"
-            data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
+      
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center gobernanza portada">
             <div class="container clearfix">
-
-                <div class="row col-mb-50">
-                    <div class="m-4 p-4">
-                        <div class="m-4 p-4">
-                            <div class="m-4 p-4">
-                                <div class="m-4 p-4">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                <div class="arr-izk">
+                    <img src="vid/mundito.gif" height="380px">
                 </div>
-
+                <div>
+                    <h2 class="titulo-seccion" style="color: #fff;">Gobernanza y Prácticas Justas de Operación</h2>
+                </div>
             </div>
         </div>
+
+
 
 
         <!-- Gobernanza y Prácticas Justas de Operación
@@ -33,7 +27,7 @@
         <section id="gobernanza">
             <div class="content-wrap">
                 <div class="container clearfix">
-                    <h2>Gobernanza y Prácticas Justas de Operación</h2>
+                    
 
                     <div class="col-12 ml-1">
                         <div class="row">
@@ -48,7 +42,7 @@
                     <div class="row  text-justify mt-4">
                         <section id="consejo-directivo">
                             <div class="col-12 mt-4">
-                                <h3>Consejo Directivo</h3>
+                            <h3 class="subtitulo--magical gobernanza">Consejo Directivo</h3>
                                 <p>
                                     Para fortalecer las vías democráticas de acción, el Consejo Directivo de CAME se
                                     reunió
@@ -67,7 +61,7 @@
                         </section>
                         <section id="certificacion-iso">
                             <div class="col-12 mt-4">
-                                <h3>Certificación ISO 9001:2015 </h3>
+                            <h3 class="subtitulo--magical gobernanza">Certificación ISO 9001:2015 </h3>
                                 <p>Realizamos la Auditoría de Seguimiento por parte del Instituto Argentino de
                                     Normalización
                                     y Certificación (IRAM), el cual evaluó el grado de cumplimiento de los exigentes
@@ -89,7 +83,7 @@
                         </section>
                         <section id="codigo-etica">
                             <div class="col-12 mt-4">
-                                <h3>Código de Ética y Conducta</h3>
+                            <h3 class="subtitulo--magical gobernanza">Código de Ética y Conducta</h3>
                                 <p>
                                     Desde hace ya tres años, comenzamos a trabajar en un <strong>Programa de
                                         Integridad</strong> para dirigentes y colaboradores y así crear un <strong>Código
@@ -117,7 +111,7 @@
                         </section>
                         <section id="ODS">
                             <div class="col-12 mt-4">
-                                <h3>Estas acciones contribuyen al cumplimiento de los ODS 10 y 16: </h3>
+                            <h3 class="subtitulo--magical gobernanza">Estas acciones contribuyen al cumplimiento de los ODS 10 y 16: </h3>
                                 <table class="table table-hover">
                                     <thead>
                                         <tr>
@@ -130,7 +124,7 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
+                                        <tr class="ods-10">
                                             <td> 10</td>
                                             <td>10.3 Garantizar la igualdad de oportunidades y reducir la desigualdad de
                                                 resultados.</td>
@@ -148,7 +142,7 @@
 
 
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-16">
                                             <td>16</td>
                                             <td>16.5 Reducir considerablemente la corrupción y el soborno en todas sus
                                                 formas</td>
@@ -166,7 +160,7 @@
 
 
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-16">
 
                                             <td>16</td>
                                             <td>16.7 Garantizar la adopción en todos los niveles de decisiones
@@ -179,7 +173,7 @@
                                             <td>90</td>
                                             <td>No hubo elecciones por contexto de pandemia</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-16">
                                             <td>16</td>
                                             <td>16.b Promover y aplicar leyes y políticas no discriminatorias en favor
                                                 del

@@ -8,32 +8,25 @@
 
         <?php include "header.php" ?>
 
-        <div class="section parallax mb-0 mt-0" style="padding: 80px 0;background-image: url('images/parallax/1.jpg');"
-            data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center proximos-desafios portada">
             <div class="container clearfix">
-
-                <div class="row col-mb-50">
-                    <div class="m-4 p-4">
-                        <div class="m-4 p-4">
-                            <div class="m-4 p-4">
-                                <div class="m-4 p-4">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                <div class="arr-izk">
+                    <img src="vid/mundito.gif" height="380px">
                 </div>
-
+                <div>
+                    <h2 class="titulo-seccion" style="color: #fff;">Próximos desafíos</h2>
+                </div>
             </div>
         </div>
 
 
+
         <!-- Próximos desafíos
 		============================================= -->
-        <section id="desarrollo-comunidad">
+        <section id="proximos-desafios">
             <div class="content-wrap">
                 <div class="container clearfix">
-                    <h2>Próximos desafíos</h2>
+   
 
                
                     <div class="row  text-justify mt-4">

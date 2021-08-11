@@ -26,10 +26,14 @@
 .resaltado li i{
 	margin-right: 1.5rem !important;
 }
-
+.sub-menu-container{
+    margin-left: 0rem !important;
+}
 .container ul {
 	margin-left: 1.5rem;
 }
+
+
 
 .sub-menu-container .menu-item > .menu-link {
 	padding: 10px 0px;
@@ -107,10 +111,11 @@ margin: 0;
 
   
 .underline--magical {
+    text-align: left;
     padding: 0.25rem 10rem 0rem 0.25rem;
     background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
     background-repeat: no-repeat;
-    background-size: 100% 0.2em;
+    background-size: 50% 0.2em;
     background-position: 0 88%;
     transition: background-size 0.25s ease-in;
     -webkit-transition: background-size 0.25s ease-in;
@@ -119,15 +124,151 @@ margin: 0;
     -o-transition: background-size 0.25s ease-in;
 }
 .underline--magical:hover {
-    background-size: 100% 88%;
+    background-size: 50% 88%;
   }
+
+  .subtitulo--magical {
+      width: auto;
+    text-align: left;
+    padding: 0rem 10rem 0rem 0rem;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-repeat: no-repeat;
+    background-size: 20% 0.2em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+    -webkit-transition: background-size 0.25s ease-in;
+    -moz-transition: background-size 0.25s ease-in;
+    -ms-transition: background-size 0.25s ease-in;
+    -o-transition: background-size 0.25s ease-in;
+}
+.subtitulo--magical:hover {
+    background-size: 20% 88%;
+  }
+
+
+  .portada{
+    min-height: 360px;
+  }
+
+
+  /* COLORES SECCIONES */
 
 .sobre-reporte{
     color: #5a90d2;
-    background-image: linear-gradient(120deg, #97e1ff 0%, #fff 100%);
+    background-image: linear-gradient(120deg, #D6E3F4 0%, #fff 100%);
+}
+.sobre-reporte.portada{
+    background: #5a90d2;
+    border-bottom: 10px solid #22364F;
 }
 
 .materialidad{
-    color: #1d998a;
-    background-image: linear-gradient(120deg, #97e1ff 0%, #fff 100%);
+    color: #009fe3;
+    background-image: linear-gradient(120deg, #DFF3FC 0%, #fff 100%);
+}
+.materialidad.portada{
+    background: #009fe3;
+    border-bottom: 10px solid #002839;
+}
+
+.gobernanza{
+    color: #6099BF;
+    background-image: linear-gradient(120deg, #A0C2D8 0%, #fff 100%);
+}
+.gobernanza.portada{
+    background: #6099BF;
+    border-bottom: 10px solid #243948;
+}
+
+.estandares-laborales{
+    color: #f39d46;
+    background-image: linear-gradient(120deg, #FCE7D1 0%, #fff 100%);
+}
+.estandares-laborales.portada{
+    background: #f39d46;
+    border-bottom: 10px solid #3D2712;
+}
+
+.medio-ambiente{
+    color: #54bc89;
+    background-image: linear-gradient(120deg, #D4EEE2 0%, #fff 100%);
+}
+.medio-ambiente.portada{
+    background: #54bc89;
+    border-bottom: 10px solid #152F22;
+}
+
+
+.desarrollo-comunidad{
+    color: #7c6a92;
+    background-image: linear-gradient(120deg, #DEDAE4 0%, #fff 100%);
+}
+.desarrollo-comunidad.portada{
+    background: #7c6a92;
+    border-bottom: 10px solid #1F1B25;
+}
+
+
+.proximos-desafios{
+    color: #f7e368;
+    background-image: linear-gradient(120deg, #FDF8D9 0%, #fff 100%);
+}
+.proximos-desafios.portada{
+    background: #f7e368;
+    border-bottom: 10px solid #7C7234;
+}
+
+/* ODS */
+.ods-1{
+    background-color:#FAC6CB ;
+}
+.ods-2{
+    background-color: #F4E7CA;
+}
+.ods-3{
+    background-color: #C9E6D1;
+}
+.ods-4{
+    background-color: #F0C7CC;
+}
+.ods-5{
+    background-color: #FBCFCA;
+}
+.ods-8{
+    background-color: #E3C5CD;
+}
+.ods-9{
+    background-color: #FCDBC9;
+}
+.ods-10{
+    background-color: #F8C4E0;
+}
+.ods-11{
+    background-color: #FEE7C9;
+}
+.ods-12{
+    background-color: #F3E3CA;
+}
+.ods-13{
+    background-color: #D1DDCF;
+}
+.ods-16{
+    background-color: #C0D5E2;
+}
+.ods-17{
+    background-color: #C5CDD9;
+}
+
+.table tr th {
+    border-right: 1px solid #f2f2f2;
+    border-left: 1px solid #f2f2f2 ;
+    text-align: center;
+}
+.table tr td {
+    text-align: left;
+    border-right: 1px solid #f2f2f2;
+    border-left: 1px solid #f2f2f2 ;
+}
+.table{
+    border: 1px solid #f2f2f2;
 }

@@ -8,8 +8,7 @@
 
         <?php include "header.php" ?>
 
-        <div class="section parallax mb-0 mt-0 d-flex align-items-center"
-            style="background: #5a90d2; border-bottom: 10px solid #0f3667; min-height: 360px;">
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center sobre-reporte portada">
             <div class="container clearfix">
                 <div class="arr-izk">
                     <img src="vid/mundito.gif" height="380px">
@@ -119,7 +118,7 @@
                        <p>     Este Reporte de Gestión Social y Ambiental comprende acciones realizadas entre enero y
                             diciembre de 2020.</p>
                        
-                            <h3 style="color: #5a90d2;">Metodología</h3>
+                            <h3 class="subtitulo--magical sobre-reporte">Metodología</h3>
                             <p>Para la elaboración de este reporte tuvimos en cuenta los siguientes principios y
                                 estándares:
                             </p>
