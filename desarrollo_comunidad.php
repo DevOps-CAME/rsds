@@ -10,8 +10,11 @@
 
         <div class="section parallax mb-0 mt-0 d-flex align-items-center desarrollo-comunidad portada">
             <div class="container clearfix">
+           <div class="arr-der">
+                    <img id="portada-mundito" src="images/portada_mundito.gif" width="100%">
+                </div>
                 <div class="arr-izk">
-                    <img src="vid/mundito.gif" height="380px">
+                    <img id="portada-blanco" src="images/portada_blanco.gif" width="100%">
                 </div>
                 <div>
                     <h2 class="titulo-seccion" style="color: #fff;">Desarrollo de la Comunidad</h2>
@@ -140,7 +143,7 @@
                                 </p>
 
                                 <div class="row justify-content-center">
-                                    <div class="resaltado col-8 m-4">
+                                   <div class="resaltado desarrollo-comunidad col-8 m-4">
                                         <h3>Participaron 130.000 personas en los 85 cursos gratuitos brindados en CAME
                                             Educativa durante 2020</h3>
                                         <p>↑ La participación incrementó 80 %</br>
@@ -162,7 +165,7 @@
 
                                 </p>
                                 <div class="row justify-content-center">
-                                    <div class="resaltado col-8 m-4">
+                                   <div class="resaltado desarrollo-comunidad col-8 m-4">
                                         <p>Más de 16.000 personas de todo el país participaron en las capacitaciones
                                             virtuales brindadas por CAME durante 2020.</p>
                                     </div>
@@ -177,7 +180,7 @@
                                 </p>
 
                                 <div class="row justify-content-center">
-                                    <div class="resaltado col-8 m-4">
+                                   <div class="resaltado desarrollo-comunidad col-8 m-4">
                                         <p>En total, en este período capacitamos a más de 245.000 personas, brindando
                                             acompañamiento en la formación de nuevas capacidades en medio de un contexto
                                             desafiante y retador. </p>
@@ -188,7 +191,7 @@
                                     certificación universitaria:
                                 </p>
                                 <div class="row justify-content-center">
-                                    <div class="resaltado col-8 m-4">
+                                   <div class="resaltado desarrollo-comunidad col-8 m-4">
                                     
                                         <ul class="iconlist m-0 p-0">
                                             <li><i class="icon-chalkboard-teacher"></i> Recursos Humanos</li>
@@ -217,17 +220,17 @@
                                 <div class="row col-mb-50 mb-5">
                                     <div class="col-sm-4 col-lg-4 text-center">
                                         <div class="counter">El <span data-from="1" data-to="81" data-refresh-interval="3" data-speed="800">0</span>%</div>
-                                        <h5>de las mujeres vio afectada su rutina de tareas</h5>
+                                        <p class="bloque-bajada">de las mujeres vio afectada su rutina de tareas</p>
                                     </div>
 
                                     <div class="col-sm-4 col-lg-4 text-center">
                                         <div class="counter">El <span data-from="1" data-to="70" data-refresh-interval="3" data-speed="1000">0</span>%</div>
-                                        <h5>tuvo que restar horas a su empresa</br> por las tareas de cuidado y domésticas</h5>
+                                        <p class="bloque-bajada">tuvo que restar horas a su empresa</br> por las tareas de cuidado y domésticas</p>
                                     </div>
 
                                     <div class="col-sm-4 col-lg-4 text-center">
                                         <div class="counter">El <span data-from="0" data-to="1" data-refresh-interval="1" data-speed="600">0</span>%</div>
-                                        <h5>manifestó sentirse deprimida</h5>
+                                        <p class="bloque-bajada">manifestó sentirse deprimida</p>
                                     </div>
             
                                 
@@ -251,7 +254,7 @@
 
                                 </p>
                                 <div class="row justify-content-center">
-                                    <div class="resaltado col-8 m-4">
+                                   <div class="resaltado desarrollo-comunidad col-8 m-4">
                                         <p>
                                             Entre las mujeres que accedieron al ATP, <strong> 67 % utilizó el salario
                                                 complementario</strong> para los trabajadores en relación de
@@ -375,7 +378,7 @@
                                 </p>
 
                                 <div class="row justify-content-center">
-                                    <div class="resaltado col-8 m-4">
+                                   <div class="resaltado desarrollo-comunidad col-8 m-4">
                                         <p> Los <strong>países</strong> participantes fueron: Argentina, Chile, Estados
                                             Unidos y Paraguay.
                                             </br> </br>
@@ -643,8 +646,8 @@
 
                                 <p> (###Fotos sello)</p>
                                 <div class="row justify-content-center">
-                                    <div class="resaltado col-8 m-4">
-                                        <h3 class="subtitulo--magical desarrollo-comunidad"> Alianzas institucionales </h3>
+                                    <div class="resaltado desarrollo-comunidad col-8 m-4">
+                                        <h3> Alianzas institucionales </h3>
 
                                         <p> En el marco de nuestro sello fortalecimos las alianzas con el Consejo de los
                                             Profesionales del Agro, Alimentos y Agroindustria (CPIA), y la Cámara
@@ -665,7 +668,7 @@
                         <section id="ODS">
                             <div class="col-12 mt-4">
                                 <h3 class="subtitulo--magical desarrollo-comunidad">Estas acciones contribuyen al cumplimiento de los ODS 1, 2, 4, 5, 12 y 17:</h3>
-                                <div class="col-12 ml-1">
+                                <div class="col-12 ml-1 mb-2">
                                     <div class="row">
                                         <div class="col-1 p-0"><a
                                                 href="https://www.un.org/sustainabledevelopment/es/poverty/"
@@ -703,7 +706,7 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
+                                        <tr class="ods-1">
                                             <td>1</td>
                                             <td>1.b Crear marcos normativos sólidos en los planos nacional, regional e
                                                 internacional, sobre la base de estrategias de desarrollo en favor de
@@ -719,7 +722,7 @@
                                             <td>2</br>Ley de Acreditación Inmediata de las Ventas con Tarjeta de
                                                 Crédito</br>Programa Desarrollo de Parques Industriales</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-2">
                                             <td>2</td>
                                             <td>2.1 De aquí a 2030, poner fin al hambre y asegurar el acceso de todas
                                                 las personas, en particular los pobres y las personas en situaciones de
@@ -732,7 +735,7 @@
                                             <td>396</td>
                                             <td>0</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-2">
                                             <td>2</td>
                                             <td>2.4 De aquí a 2030, asegurar la sostenibilidad de los sistemas de
                                                 producción de alimentos y aplicar prácticas agrícolas resilientes que
@@ -749,7 +752,7 @@
                                             </td>
                                             <td>Se evaluará en 2021</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-4">
                                             <td>4</td>
                                             <td>4.4 De aquí a 2030, aumentar considerablemente el número de jóvenes y
                                                 adultos que tienen las competencias necesarias, en particular técnicas y
@@ -761,7 +764,7 @@
                                             <td>149.500</td>
                                             <td>245.000</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-5">
                                             <td>5</td>
                                             <td>5.c Aprobar y fortalecer políticas acertadas y leyes aplicables para
                                                 promover la igualdad de género y el empoderamiento de todas las mujeres
@@ -781,7 +784,7 @@
                                                 Programa GANAR - GANAR de ONU Mujeres.</br>Beneficios en las tasas y
                                                 gastos en las líneas de crédito para Pymes lideradas por Mujeres</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-9">
                                             <td>9</td>
                                             <td>9.3 Aumentar el acceso de las pequeñas industrias y otras empresas,
                                                 particularmente en los países en desarrollo, a los servicios
@@ -798,7 +801,7 @@
                                             <td>Gestión, presentación o derivación a otros organismos: </br>290
                                                 proyectos</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-12">
                                             <td>12</td>
                                             <td>12.3 De aquí a 2030, reducir a la mitad el desperdicio de alimentos per
                                                 cápita mundial en la venta al por menor y a nivel de los consumidores y
@@ -810,7 +813,7 @@
                                             <td>110 kg de comida recuperada</td>
                                             <td></br></td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-17">
                                             <td>17</td>
                                             <td>17.16 Mejorar la Alianza Mundial para el Desarrollo Sostenible,
                                                 complementada por alianzas entre múltiples interesados que movilicen e
@@ -830,7 +833,7 @@
                                             <td>RED Parques</br>CAME - SGR Garantizar</br>Premios Latinoamérica Verde
                                             </td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-17">
                                             <td>17</td>
                                             <td>17.17 Fomentar y promover la constitución de alianzas eficaces en las
                                                 esferas pública, público-privada y de la sociedad civil, aprovechando la

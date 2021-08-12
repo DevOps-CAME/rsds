@@ -7,11 +7,14 @@
     <div id="wrapper" class="clearfix">
 
         <?php include "header.php" ?>
-      
+
         <div class="section parallax mb-0 mt-0 d-flex align-items-center gobernanza portada">
             <div class="container clearfix">
+            <div class="arr-der">
+                    <img id="portada-mundito" src="images/portada_mundito.gif" width="100%">
+                </div>
                 <div class="arr-izk">
-                    <img src="vid/mundito.gif" height="380px">
+                    <img id="portada-blanco" src="images/portada_blanco.gif" width="100%">
                 </div>
                 <div>
                     <h2 class="titulo-seccion" style="color: #fff;">Gobernanza y Prácticas Justas de Operación</h2>
@@ -27,7 +30,7 @@
         <section id="gobernanza">
             <div class="content-wrap">
                 <div class="container clearfix">
-                    
+
 
                     <div class="col-12 ml-1">
                         <div class="row">
@@ -42,7 +45,7 @@
                     <div class="row  text-justify mt-4">
                         <section id="consejo-directivo">
                             <div class="col-12 mt-4">
-                            <h3 class="subtitulo--magical gobernanza">Consejo Directivo</h3>
+                                <h3 class="subtitulo--magical gobernanza">Consejo Directivo</h3>
                                 <p>
                                     Para fortalecer las vías democráticas de acción, el Consejo Directivo de CAME se
                                     reunió
@@ -61,7 +64,7 @@
                         </section>
                         <section id="certificacion-iso">
                             <div class="col-12 mt-4">
-                            <h3 class="subtitulo--magical gobernanza">Certificación ISO 9001:2015 </h3>
+                                <h3 class="subtitulo--magical gobernanza">Certificación ISO 9001:2015 </h3>
                                 <p>Realizamos la Auditoría de Seguimiento por parte del Instituto Argentino de
                                     Normalización
                                     y Certificación (IRAM), el cual evaluó el grado de cumplimiento de los exigentes
@@ -83,13 +86,14 @@
                         </section>
                         <section id="codigo-etica">
                             <div class="col-12 mt-4">
-                            <h3 class="subtitulo--magical gobernanza">Código de Ética y Conducta</h3>
+                                <h3 class="subtitulo--magical gobernanza">Código de Ética y Conducta</h3>
                                 <p>
                                     Desde hace ya tres años, comenzamos a trabajar en un <strong>Programa de
-                                        Integridad</strong> para dirigentes y colaboradores y así crear un <strong>Código
-                                                de
-                                                Ética y Conducta,</strong> aprobado en la Asamblea General Ordinaria de
-                                            2019.</p>
+                                        Integridad</strong> para dirigentes y colaboradores y así crear un
+                                    <strong>Código
+                                        de
+                                        Ética y Conducta,</strong> aprobado en la Asamblea General Ordinaria de
+                                    2019.</p>
                                 <p>Durante 2020 continuamos generando acciones y sumando políticas flexibles para el
                                     balance
                                     entre la vida laboral y el bienestar personal, lo cual, a la vez, aporta al
@@ -101,7 +105,8 @@
                                     </li>
                                     <li>Analizar y diseñar políticas de personal que garanticen la igualdad de género y
                                         oportunidades.</li>
-                                    <li>Generar capacitaciones específicas sobre igualdad e inclusión para los diferentes
+                                    <li>Generar capacitaciones específicas sobre igualdad e inclusión para los
+                                        diferentes
                                         actores y
                                         personal de la entidad.</li>
                                 </ul>
@@ -111,7 +116,19 @@
                         </section>
                         <section id="ODS">
                             <div class="col-12 mt-4">
-                            <h3 class="subtitulo--magical gobernanza">Estas acciones contribuyen al cumplimiento de los ODS 10 y 16: </h3>
+                               
+                                <h3 class="subtitulo--magical gobernanza">Estas acciones contribuyen al cumplimiento de
+                                    los ODS 10 y 16: </h3>
+                                    <div class="row ml-1 mb-2">
+                                    <div class="col-1 p-0"><a
+                                            href="https://www.un.org/sustainabledevelopment/es/inequality/"
+                                            target="_blank"><img src="images/ods/10.png" alt="Image"></a></div>
+
+                                    <div class="col-1 p-0"><a
+                                            href="https://www.un.org/sustainabledevelopment/es/peace-justice/"
+                                            target="_blank"><img src="images/ods/16.png" alt="Image"></a></div>
+
+                                </div>
                                 <table class="table table-hover">
                                     <thead>
                                         <tr>
@@ -194,8 +211,12 @@
                                 </table>
                                 <p class="mt-5 text-center">
                                     <strong>
-                                <a target="_blank" href="http://www.redcame.org.ar/memoria2020">Conocé más sobre nuestro trabajo institucional en el último informe de gestión publicado por nuestra entidad</a></br>
-                                    <a href="http://www.redcame.org.ar/memoria2020" class="button button-border button-rounded button-aqua"><i class="icon-book3"></i>Clic aquí</a>
+                                        <a target="_blank" href="http://www.redcame.org.ar/memoria2020">Conocé más sobre
+                                            nuestro trabajo institucional en el último informe de gestión publicado por
+                                            nuestra entidad</a></br>
+                                        <a href="http://www.redcame.org.ar/memoria2020"
+                                            class="button button-border button-rounded button-aqua"><i
+                                                class="icon-book3"></i>Clic aquí</a>
                                 </p>
                             </div>
                         </section>

@@ -272,6 +272,13 @@
 
                 </div>
             </div><!-- #copyrights end -->
-        </footer><!-- #footer end -->
+        </footer><!-- #footer end -->      
 
-        
+        <script>
+    var timestamp = new Date().getTime();
+    var image = document.getElementById("portada-blanco");
+    image.src = "images/portada_blanco.gif?t=" + timestamp;
+
+    var image2 = document.getElementById("portada-mundito");
+    image2.src = "images/portada_mundito.gif?t=" + timestamp;
+</script>

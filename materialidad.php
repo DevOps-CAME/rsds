@@ -10,8 +10,11 @@
 
         <div class="section parallax mb-0 mt-0 d-flex align-items-center materialidad portada">
             <div class="container clearfix">
+           <div class="arr-der">
+                    <img id="portada-mundito" src="images/portada_mundito.gif" width="100%">
+                </div>
                 <div class="arr-izk">
-                    <img src="vid/mundito.gif" height="380px">
+                    <img id="portada-blanco" src="images/portada_blanco.gif" width="100%">
                 </div>
                 <div>
                     <h2 class="titulo-seccion" style="color: #fff;">Materialidad</h2>

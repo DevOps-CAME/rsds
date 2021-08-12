@@ -11,8 +11,11 @@
             
         <div class="section parallax mb-0 mt-0 d-flex align-items-center estandares-laborales portada">
             <div class="container clearfix">
+           <div class="arr-der">
+                    <img id="portada-mundito" src="images/portada_mundito.gif" width="100%">
+                </div>
                 <div class="arr-izk">
-                    <img src="vid/mundito.gif" height="380px">
+                    <img id="portada-blanco" src="images/portada_blanco.gif" width="100%">
                 </div>
                 <div>
                     <h2 class="titulo-seccion" style="color: #fff;">Estándares Laborales</h2>
@@ -58,7 +61,7 @@
                         </section>
                         <section id="certificacion-iso">
                             <div class="col-12 mt-4">
-                                <h3>Compromiso, bienestar y equipo en medio del Covid-19</h3>
+                                <h3 class="subtitulo--magical estandares-laborales">Compromiso, bienestar y equipo en medio del Covid-19</h3>
                                 <p>Para fomentar el compromiso, bienestar y el trabajo en equipo en medio de las nuevas
                                     condiciones que se presentaron tras la pandemia, implementamos diversas acciones:
                                 </p>
@@ -99,7 +102,7 @@
                         </section>
                         <section id="codigo-etica">
                             <div class="col-12 mt-4">
-                                <h3>Generación de empleo, inclusión y equidad</h3>
+                                <h3 class="subtitulo--magical estandares-laborales">Generación de empleo, inclusión y equidad</h3>
                                 <table class="table table-hover">
                                     <thead>
                                         <tr>
@@ -127,7 +130,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <h3>2020</h3>
+                                <h3 class="subtitulo--magical estandares-laborales">2020</h3>
                                 <table class="table table-hover">
                                     <thead>
                                         <tr>
@@ -246,22 +249,22 @@
                         </section>
                         <section id="ambiente-laboral">
                             <div class="col-12 mt-4">
-                                <h3>Ambiente Laboral y Derechos Humanos</h3>
+                                <h3 class="subtitulo--magical estandares-laborales">Ambiente Laboral y Derechos Humanos</h3>
                                 <p>Con el objetivo de acompañar las nuevas necesidades de nuestro personal y continuar
                                     desarrollando las tareas diarias con normalidad, <strong> en 2020 entregamos más de
                                         38 notebooks a los colaboradores,</strong> así como también brindamos
                                     capacitaciones para un manejo óptimo de la nueva herramienta para teletrabajo, Zoom.
                                 </p>
-                                <p>
-                                   <a target="_blank" href="http://www.redcame.org.ar/rse"> Conocé más sobre los beneficios al personal en nuestros anteriores Balances de
-                                    Gestión Social y Ambiental</a>      <a href="http://www.redcame.org.ar/rse" class="button button-border button-rounded button-aqua"><i class="icon-book3"></i>Clic aquí</a>
+                                <p class="center">
+                                   <a  style="color:#f39d46;" target="_blank" href="http://www.redcame.org.ar/rse"> Conocé más sobre los beneficios al personal en nuestros anteriores Balances de
+                                    Gestión Social y Ambiental</a>  </br>    <a href="http://www.redcame.org.ar/rse" class="button button-border button-rounded button-amber"><i class="icon-book3"></i>Clic aquí</a>
                                 </p>
 
                             </div>
                         </section>
                         <section id="seguridad-trabajo">
                             <div class="col-12 mt-4">
-                                <h3>Seguridad en el Trabajo </h3>
+                                <h3 class="subtitulo--magical estandares-laborales">Seguridad en el Trabajo </h3>
                                 <p>La Dirección Ejecutiva, y los departamentos de RR.HH., Legales, Intendencia y
                                     Seguridad e Higiene, conformaron el “Comité Covid-19”. En este marco, diseñamos
                                     nuestro Protocolo de Prevención con el objetivo de <strong>minimizar los riesgos de
@@ -287,7 +290,7 @@
                         </section>
                         <section id="codigo-etica">
                             <div class="col-12 mt-4">
-                                <h3>Desarrollo Humano y Formación
+                                <h3 class="subtitulo--magical estandares-laborales">Desarrollo Humano y Formación
                                 </h3>
                                 <table class="table table-hover">
                                     <thead>
@@ -386,8 +389,8 @@
 
                         <section id="hay-equipo">
                             <div class="col-12 mt-4">
-                                <h2>¡Hay Equipo!</h2>
-                                <h3>Sumando en CAME</h3>
+                                <h2 class="underline--magical estandares-laborales">¡Hay Equipo!</h2>
+                                <h3 class="subtitulo--magical estandares-laborales">Sumando en CAME</h3>
 
                                 <p>A través de espacios virtuales y talleres para líderes y colaboradores, durante 2020 continuamos fortaleciendo e impulsando el trabajo en equipo por medio del programa interno Sumando en CAME a través del cual dictamos las siguientes capacitaciones:
                                 </p>
@@ -399,7 +402,7 @@
                                     <li>Liderazgo y comunicación en tiempos de crisis</li>
                                     <li>Liderazgo inclusivo</li>
                                 </ul>
-                                <h3>Clima laboral</h3>
+                                <h3 class="subtitulo--magical estandares-laborales">Clima laboral</h3>
 
                                 <p>Difundimos los resultados de la Encuesta de Clima 2019 con todos los colaboradores,
                                     así como también los planes de acción que surgieron a partir del análisis de sus
@@ -418,8 +421,23 @@
 
                         <section id="ODS">
                             <div class="col-12 mt-4">
-                                <h3>Estas acciones contribuyen al cumplimiento de los ODS 3, 4, 5 y 8:
+                                <h3 class="subtitulo--magical estandares-laborales">Estas acciones contribuyen al cumplimiento de los ODS 3, 4, 5 y 8:
                                 </h3>
+                                <div class="col-12 ml-1 mb-2">
+                                    <div class="row">
+                                        <div class="col-1 p-0"><a href="https://www.un.org/sustainabledevelopment/es/health/"
+                                                target="_blank"><img src="images/ods/03.png" alt="Image"></a></div>
+                                        <div class="col-1 p-0"><a href="https://www.un.org/sustainabledevelopment/es/education/"
+                                                target="_blank"><img src="images/ods/04.png" alt="Image"></a></div>
+                                        <div class="col-1 p-0"><a
+                                                href="https://www.un.org/sustainabledevelopment/es/gender-equality/"
+                                                target="_blank"><img src="images/ods/05.png" alt="Image"></a></div>
+                                        <div class="col-1 p-0"><a
+                                                href="https://www.un.org/sustainabledevelopment/es/economic-growth/"
+                                                target="_blank"><img src="images/ods/08.png" alt="Image"></a></div>
+            
+                                    </div>
+                                </div>
                                 <table class="table table-hover">
                                     <thead>
                                         <tr>
@@ -434,7 +452,7 @@
                                     </thead>
                                     <tbody>
 
-                                        <tr>
+                                        <tr class="ods-3">
                                             <td> 3</td>
                                             <td> 3.4 De aquí a 2030, reducir en un tercio la mortalidad prematura por
                                                 enfermedades no transmisibles mediante su prevención y tratamiento, y
@@ -446,7 +464,7 @@
                                             <td> 77</td>
                                             <td> 0</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-4">
                                             <td> 4</td>
                                             <td> 4.4 De aquí a 2030, aumentar considerablemente el número de jóvenes y
                                                 adultos que tienen las competencias necesarias, en particular técnicas y
@@ -458,7 +476,7 @@
                                             <td> 5.029</td>
                                             <td> 2.769</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-4">
                                             <td> 4</td>
                                             <td> 4b. De aquí a 2020, aumentar considerablemente a nivel mundial el
                                                 número de becas disponibles para los países en desarrollo, en particular
@@ -474,7 +492,7 @@
                                             <td> 19</td>
                                             <td> 17</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-5">
                                             <td> 5</td>
                                             <td> 5.2 Eliminar todas las formas de violencia contra todas las mujeres y
                                                 las niñas en los ámbitos público y privado, incluidas la trata y la
@@ -487,7 +505,7 @@
                                             <td> 0</td>
                                             <td> 0</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-5">
                                             <td> 5</td>
                                             <td> 5.5 Asegurar la participación plena y efectiva de las mujeres y la
                                                 igualdad de oportunidades de liderazgo a todos los niveles decisorios de
@@ -498,7 +516,7 @@
                                             <td> 61%</td>
                                             <td> 61%</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-8">
                                             <td> 8</td>
                                             <td> 8.6 De aquí a 2020, reducir considerablemente la proporción de jóvenes
                                                 que no están empleados y no cursan estudios ni reciben capacitación.
@@ -509,7 +527,7 @@
                                             <td> 12%</td>
                                             <td> 10%</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-8">
                                             <td> 8</td>
                                             <td> 8.8 Proteger los derechos laborales y promover un entorno de trabajo
                                                 seguro y sin riesgos para todos los trabajadores, incluidos los

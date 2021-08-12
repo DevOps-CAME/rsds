@@ -10,8 +10,11 @@
 
         <div class="section parallax mb-0 mt-0 d-flex align-items-center medio-ambiente portada">
             <div class="container clearfix">
+           <div class="arr-der">
+                    <img id="portada-mundito" src="images/portada_mundito.gif" width="100%">
+                </div>
                 <div class="arr-izk">
-                    <img src="vid/mundito.gif" height="380px">
+                    <img id="portada-blanco" src="images/portada_blanco.gif" width="100%">
                 </div>
                 <div>
                     <h2 class="titulo-seccion" style="color: #fff;">Medio Ambiente</h2>
@@ -136,7 +139,7 @@
                                     comunicación virtual continuamos brindando asistencia a los proyectos en curso.
                                 </p>
                                 <div class="row justify-content-center">
-                                    <div class="resaltado col-8 m-4">
+                                    <div class="resaltado medio-ambiente col-8 m-4">
                                         <p>
                                             Durante 2020 brindamos asistencia técnica en 69 ciudades (20% más que en
                                             2019)
@@ -389,10 +392,27 @@
 
 
                         <section id="ODS">
+                
                             <div class="col-12 mt-4">
                                 <h3 class="subtitulo--magical medio-ambiente">Estas acciones contribuyen al cumplimiento de los ODS 2, 9, 11 y 12:
 
                                 </h3>
+                                            
+                
+                        <div class="row ml-1 mb-2">
+                            <div class="col-1 p-0"><a href="https://www.un.org/sustainabledevelopment/es/hunger/"
+                                    target="_blank"><img src="images/ods/02.png" alt="Image"></a></div>
+                            <div class="col-1 p-0"><a
+                                    href="https://www.un.org/sustainabledevelopment/es/infrastructure/"
+                                    target="_blank"><img src="images/ods/09.png" alt="Image"></a></div>
+                            <div class="col-1 p-0"><a href="https://www.un.org/sustainabledevelopment/es/cities/"
+                                    target="_blank"><img src="images/ods/11.png" alt="Image"></a></div>
+                            <div class="col-1 p-0"><a
+                                    href="https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/"
+                                    target="_blank"><img src="images/ods/12.png" alt="Image"></a></div>
+
+                        </div>
+                 
                                 <table class="table table-hover">
                                     <thead>
                                         <tr>
@@ -406,7 +426,7 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
+                                        <tr class="ods-2">
                                             <td>2</td>
                                             <td>2.3 De aquí a 2030, duplicar la productividad agrícola y los ingresos de
                                                 los productores de alimentos en pequeña escala, en particular las
@@ -419,14 +439,14 @@
                                                 pequeños y medianos productores y consumidores, eliminando los
                                                 intermediarios:</td>
                                             <td>Mercado en tu barrio</td>
-                                            <td>Mercado en tu barrio</td>
-                                            Campaña “Más frutas y verduras”
-                                            <td>Mercado en tu barrio</td>
-                                            Sello Came Sustentable (desarrollo de protocolos)
+                                            <td>Mercado en tu barrio </br>Campaña “Más frutas y verduras”</td>
+                                            
+                                            <td>Mercado en tu barrio</br>Sello Came Sustentable (desarrollo de protocolos)
+</td>
                                             <td>Sello Came Sustentable (2 empresas certificadas)</td>
                                         </tr>
-                                        <tr>
-                                        <tr>
+                                       
+                                        <tr class="ods-12">
                                             <td>12</td>
                                             <td>12.5 De aquí a 2030, reducir considerablemente la generación de desechos
                                                 mediante actividades de prevención, reducción, reciclado y
@@ -437,7 +457,7 @@
                                             <td>158 kg/mes promedio</td>
                                             <td>141,7 kg/mes promedio</td>
                                         </tr>
-                                        <tr>
+                                        <tr class="ods-12">
                                             <td>12</td>
                                             <td>12.b Elaborar y aplicar instrumentos para vigilar los efectos en el
                                                 desarrollo sostenible, a fin de lograr un turismo sostenible que cree

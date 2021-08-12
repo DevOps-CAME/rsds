@@ -9,9 +9,9 @@
 						============================================= -->
 				<div id="logo">
 					<a href="index.php" class="standard-logo" data-dark-logo="images/logo-dark.png"><img
-							src="images/logo.png" alt="Canvas Logo"></a>
+							src="images/logo.png" alt="Responsabilidad Social y Desarrollo Sustentable"></a>
 					<a href="index.php" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img
-							src="images/logo@2x.png" alt="Canvas Logo"></a>
+							src="images/logo@2x.png" alt="Responsabilidad Social y Desarrollo Sustentable"></a>
 				</div><!-- #logo end -->
 
 
@@ -61,7 +61,7 @@
 						</li>
 
 						<li class="menu-item">
-							<a class="menu-link" href="#">
+							<a class="menu-link">
 								<div>Resultados e indicadores</div>
 							</a>
 

@@ -11,29 +11,23 @@
 		============================================= -->
         <section id="slider" class="slider-element min-vh-100 include-header" style="background-color: #ffffff;">
             <div class="slider-inner">
-                <img src="images/mundito.png" style="width: 48vw; top: 1vh; left: 4vw; position: absolute;" alt=""
-                    class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 250px;">
-                <img src="images/back-der.png" style="height: 101vh; position: fixed; right: 0px;" alt=""
-                    class="slider-img">
-                <img src="images/back-izk.png" style="width: 20vw; position: fixed; left: 0px; bottom: 0px;" alt=""
-                    class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;">
-                <img src="images/CAME.png" style="width: 13vw; position: fixed; left: 1vw; bottom: 3vh;" alt=""
-                    class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;">
+                
+                <img id="sl-back-der" src="images/back-der.png" alt="" class="slider-img">
+                <img id="sl-back-izk" src="images/back-izk.png" alt="" class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;">
+                <img id="sl-came" src="images/CAME.png" alt="" class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;">
+                <img id="sl-mundito" src="images/mundito.png"  alt="" class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 250px;">
 
                 <div class="vertical-middle parallax" data-start="margin-top: 0px;" data-400="margin-top: 200px;">
                     <div class="pl-4">
                         <div class="d-flex flex-row-reverse">
                             <div class="col-md-5">
                                 <div class="slider-title">
-                                    <p style="    font-size: 1.7rem;
-                                    font-weight: 600;
-                                    line-height: 1.9rem;
-                                    color: #708190;"> DESDE 1956 JUNTO A</br> LAS PYMES ARGENTINAS </p>
+                                    <p id="sl-1956"> DESDE 1956 JUNTO A</br> LAS PYMES ARGENTINAS </p>
 
-                                    <h1 style="font-weight: 900; font-size: 6rem; line-height: 6rem; ">
-                                        <span style="color: #99d2e3;">2020</span><span
-                                            style="position: absolute; height: 1vh; border-bottom: 14px solid #99d2e3;top: 14vh; width: 290px; margin-left: 0.5vw;">&nbsp;</span></br>Reporte
-                                        de Gestión Social y Ambiental
+                                    <h1 id="sl-titulo">
+                                        <span id="sl-titulo-2020">2020</span>
+                                        </br>
+                                            Reporte de Gestión Social y Ambiental
                                     </h1>
 
                                 </div>
@@ -111,8 +105,8 @@
 				============================================= -->
                 <div class="d-flex justify-content-center">
                     <div>
-                        <video poster="vid/rsds.png" preload="auto" loop autoplay muted controls
-                            style="height: 90vh; max-width: 100vw;    outline: 1px solid #fff; outline-offset: -1px;">
+                        <video id="video-rsds" poster="vid/rsds.png" preload="auto" loop autoplay muted controls
+                            style="max-width: 100vw;    outline: 1px solid #fff; outline-offset: -1px;">
                             <source src='vid/rsds.webm' type='video/webm' />
                             <source src='vid/rsds.mp4' type='video/mp4' />
                         </video>
@@ -166,7 +160,7 @@
                 <div class="row clearfix align-items-stretch">
 
                     <div class="col-lg-6 center col-padding"
-                        style="background: url('images/services/main-bg.jpg') center center no-repeat; background-size: cover;">
+                        style="background: url('images/opinion.jpg') center center no-repeat; background-size: cover;">
                     </div>
 
                     <div class="col-lg-6 center col-padding" style="background-color: #F5F5F5;">
